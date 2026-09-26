@@ -1,0 +1,19 @@
+{
+  "records_fetched": "2026-09-26",
+  "name": "Hemidactylus mabouia",
+  "common": "Tropical house gecko",
+  "gbif_taxon_key": 5959942,
+  "matched_as": "Hemidactylus mabouia (Moreau De Jonn\u00e8s, 1818)",
+  "gbif_filters": {
+    "hasCoordinate": "true",
+    "hasGeospatialIssue": "false",
+    "occurrenceStatus": "PRESENT",
+    "country": "US"
+  },
+  "records_in_contiguous_us": 8621,
+  "records_without_year_not_downloaded": 15,
+  "records_outside_contiguous_us_counties": 380,
+  "map_points": 5839,
+  "map_point_cell_deg": 0.01,
+  "note": "Built from the GBIF search API. This snapshot has no DOI. Before publishing, request a GBIF download with the same filters and cite its DOI."
+}
