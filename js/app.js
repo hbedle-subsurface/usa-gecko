@@ -105,8 +105,14 @@
   const effortFiles = {};
   const cap = (t) => t.charAt(0).toUpperCase() + t.slice(1);
 
+  // Species menu, grouped (Lizards, Snakes, Frogs and toads, Insects) in the order the build lists them.
+  const groups = {};
   (SPX ? SPX.species : []).forEach((sp) => {
-    const o = document.createElement("option"); o.value = sp.slug; o.textContent = sp.common; $("species").appendChild(o);
+    const name = sp.group || "Species";
+    if (!groups[name]) {
+      groups[name] = document.createElement("optgroup"); groups[name].label = name; $("species").appendChild(groups[name]);
+    }
+    const o = document.createElement("option"); o.value = sp.slug; o.textContent = sp.common; groups[name].appendChild(o);
   });
   if (SPX) $("built").textContent = `Data built ${SPX.built_utc.slice(0, 10)}.`;
 

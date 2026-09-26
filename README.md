@@ -1,13 +1,20 @@
 # Introduced species in the United States
 
-An interactive map of four introduced species across the contiguous United States, by county and year, alongside county winter minimum temperatures, observer effort, distance to the nearest Interstate, distance to the nearest large city, and population density.
+An interactive map of introduced species across the contiguous United States, by county and year, alongside county winter minimum temperatures, observer effort, distance to the nearest Interstate, distance to the nearest large city, and population density.
 
-| Species | Scientific name | Effort group |
-|---|---|---|
-| Mediterranean house gecko | *Hemidactylus turcicus* | all lizards and snakes (Squamata) |
-| Brown anole | *Anolis sagrei* | all lizards and snakes (Squamata) |
-| Italian wall lizard | *Podarcis siculus* | all lizards and snakes (Squamata) |
-| Spotted lanternfly | *Lycorma delicatula* | all insects (Insecta) |
+| Group | Species | Scientific name | Effort group |
+|---|---|---|---|
+| Lizards | Mediterranean house gecko | *Hemidactylus turcicus* | all lizards and snakes (Squamata) |
+| | Tropical house gecko | *Hemidactylus mabouia* | Squamata |
+| | Indo-Pacific gecko | *Hemidactylus garnotii* | Squamata |
+| | Brown anole | *Anolis sagrei* | Squamata |
+| | Northern curly-tailed lizard | *Leiocephalus carinatus* | Squamata |
+| | Italian wall lizard | *Podarcis siculus* | Squamata |
+| | Common wall lizard | *Podarcis muralis* | Squamata |
+| Snakes | Brahminy blind snake | *Indotyphlops braminus* | Squamata |
+| Frogs and toads | Cuban treefrog | *Osteopilus septentrionalis* | all frogs and toads (Anura) |
+| | Cane toad | *Rhinella marina* | Anura |
+| Insects | Spotted lanternfly | *Lycorma delicatula* | all insects (Insecta) |
 
 The site grew out of an Oklahoma-only version for the Mediterranean house gecko ([ok-gecko](https://github.com/hbedle-subsurface/ok-gecko)).
 
@@ -86,11 +93,12 @@ The static files (county and state outlines, GBIF query polygons, Interstates, c
 
 ## Things built into the data that affect interpretation
 
-- **Observer effort.** iNaturalist use grew sharply after about 2010, and it grew faster near cities and along roads. Distance to an Interstate and distance to a city are therefore linked both to how a species travels and to where people look for it. The effort counts (all lizards and snakes for the three lizards, all insects for the lanternfly) measure the second of these, and a model that includes them can begin to separate the two.
+- **Observer effort.** iNaturalist use grew sharply after about 2010, and it grew faster near cities and along roads. Distance to an Interstate and distance to a city are therefore linked both to how a species travels and to where people look for it. The effort counts (all lizards and snakes for the lizards and the snake, all frogs and toads for the two amphibians, all insects for the lanternfly) measure the second of these, and a model that includes them can begin to separate the two.
 - **First record is not arrival.** A county's first record is the first time someone documented the species there.
 - **Correlated predictors.** Warm winters, large cities and dense Interstate networks occur together across the southern states, so each variable's correlation with first-record year partly reflects the others. The scatter plot shows one variable at a time.
 - **Rank correlation.** The Spearman value is computed only over counties with a record, so it describes the order in which recorded counties were reached, not which counties were reached at all.
 - **Microclimate.** The Mediterranean house gecko and brown anole often live on and around buildings, and the Italian wall lizard on walls and rock piles, all of which stay warmer than the air that county temperatures describe.
+- **Native populations.** The cane toad is native to the Rio Grande Valley of southern Texas, where GBIF lists it as *Rhinella marina* or as the closely related *Rhinella horribilis* depending on the source. Records there mark a native population, not a spread, and the name split means some Texas records may be missing from the download.
 - **Reporting campaigns.** The spotted lanternfly has been the subject of public campaigns asking people to report and destroy it, so its records reflect those campaigns as well as the insect's spread.
 - **Boundary vintages.** County outlines predate a few recent changes. South Dakota's Shannon County (now Oglala Lakota) and Bedford city, Virginia have no 2020 population center, so their distances use a point inside the county and population is blank. Connecticut uses its former counties rather than the planning regions adopted in 2022.
 - **City list.** The city list gives populations from about 2013. A handful of cities have crossed 100,000 since then.

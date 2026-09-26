@@ -57,18 +57,37 @@ SPDIR = DATA / "species"
 GBIF = "https://api.gbif.org/v1"
 
 SPECIES = [
-    {"slug": "mediterranean-house-gecko", "name": "Hemidactylus turcicus",
-     "common": "Mediterranean house gecko", "phylum": "Chordata", "effort": "squamata"},
-    {"slug": "brown-anole", "name": "Anolis sagrei",
-     "common": "Brown anole", "phylum": "Chordata", "effort": "squamata"},
-    {"slug": "italian-wall-lizard", "name": "Podarcis siculus",
-     "common": "Italian wall lizard", "phylum": "Chordata", "effort": "squamata"},
-    {"slug": "spotted-lanternfly", "name": "Lycorma delicatula",
-     "common": "Spotted lanternfly", "phylum": "Arthropoda", "effort": "insecta"},
+    # lizards
+    {"slug": "mediterranean-house-gecko", "name": "Hemidactylus turcicus", "common": "Mediterranean house gecko",
+     "group": "Lizards", "phylum": "Chordata", "effort": "squamata"},
+    {"slug": "tropical-house-gecko", "name": "Hemidactylus mabouia", "common": "Tropical house gecko",
+     "group": "Lizards", "phylum": "Chordata", "effort": "squamata"},
+    {"slug": "indo-pacific-gecko", "name": "Hemidactylus garnotii", "common": "Indo-Pacific gecko",
+     "group": "Lizards", "phylum": "Chordata", "effort": "squamata"},
+    {"slug": "brown-anole", "name": "Anolis sagrei", "common": "Brown anole",
+     "group": "Lizards", "phylum": "Chordata", "effort": "squamata"},
+    {"slug": "northern-curly-tailed-lizard", "name": "Leiocephalus carinatus", "common": "Northern curly-tailed lizard",
+     "group": "Lizards", "phylum": "Chordata", "effort": "squamata"},
+    {"slug": "italian-wall-lizard", "name": "Podarcis siculus", "common": "Italian wall lizard",
+     "group": "Lizards", "phylum": "Chordata", "effort": "squamata"},
+    {"slug": "common-wall-lizard", "name": "Podarcis muralis", "common": "Common wall lizard",
+     "group": "Lizards", "phylum": "Chordata", "effort": "squamata"},
+    # snakes
+    {"slug": "brahminy-blind-snake", "name": "Indotyphlops braminus", "common": "Brahminy blind snake",
+     "group": "Snakes", "phylum": "Chordata", "effort": "squamata"},
+    # frogs and toads
+    {"slug": "cuban-treefrog", "name": "Osteopilus septentrionalis", "common": "Cuban treefrog",
+     "group": "Frogs and toads", "phylum": "Chordata", "effort": "anura"},
+    {"slug": "cane-toad", "name": "Rhinella marina", "common": "Cane toad",
+     "group": "Frogs and toads", "phylum": "Chordata", "effort": "anura"},
+    # insects
+    {"slug": "spotted-lanternfly", "name": "Lycorma delicatula", "common": "Spotted lanternfly",
+     "group": "Insects", "phylum": "Arthropoda", "effort": "insecta"},
 ]
 EFFORT_TAXA = {
     "squamata": {"name": "Squamata", "phylum": "Chordata", "label": "lizard and snake"},
     "insecta": {"name": "Insecta", "phylum": "Arthropoda", "label": "insect"},
+    "anura": {"name": "Anura", "phylum": "Chordata", "label": "frog and toad"},
 }
 
 WORKERS = 4                       # parallel requests when downloading records
@@ -594,7 +613,7 @@ def main():
                                  w[y][0] if y in w else "", w[y][1] if y in w else ""])
         m = species_meta[sp["slug"]]
         index_out.append({
-            "slug": sp["slug"], "name": sp["name"], "common": sp["common"],
+            "slug": sp["slug"], "name": sp["name"], "common": sp["common"], "group": sp["group"],
             "effort": eg, "effort_label": EFFORT_TAXA[eg]["label"],
             "records": m.get("records_in_contiguous_us"), "counties": len(g),
             "records_fetched": m.get("records_fetched"),
