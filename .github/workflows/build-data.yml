@@ -1,12 +1,20 @@
 name: Build data
 
 # Runs scripts/build_data.py on GitHub's servers and commits the results
-# into data/. Start it by hand from the Actions tab ("Run workflow").
-# It also refreshes itself on the 1st of each month.
+# into data/. The script saves its progress as it goes, so a run that is
+# canceled or runs out of time loses little. Every four hours the workflow
+# starts again on its own and continues where the last run stopped; once
+# everything is up to date for the month, those runs finish in a minute or
+# two without changing anything. "Run workflow" on the Actions tab starts
+# one by hand.
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 1 * *"
+    - cron: "17 */4 * * *"
+
+concurrency:
+  group: build-data
+  cancel-in-progress: false
 
 permissions:
   contents: write
