@@ -36,6 +36,8 @@ Standard library only (Python 3.8+).
 """
 
 import csv
+import os
+import subprocess
 import datetime as dt
 import gzip
 import json
@@ -69,7 +71,9 @@ EFFORT_TAXA = {
     "insecta": {"name": "Insecta", "phylum": "Arthropoda", "label": "insect"},
 }
 
-WORKERS = 4                       # parallel GBIF requests
+WORKERS = 4                       # parallel requests when downloading records
+EFFORT_PAUSE_SEC = 0.5            # effort requests go one at a time, with this pause between them
+CHECKPOINT_MIN = 15               # on GitHub, commit progress this often
 RUN_BUDGET_MIN = 115              # stop starting new effort requests this many minutes into a run
 RUN_START = time.time()
 EFFORT_CACHE = DATA / "effort_cache.json"
@@ -113,7 +117,7 @@ def _fetch(url):
         return r.read()
 
 
-def get(url, params=None, as_json=True, tries=5):
+def get(url, params=None, as_json=True, tries=8):
     """GET with retries. Each attempt runs in a background thread with a hard
     wall-clock limit, because a server that sends a response very slowly can
     keep an ordinary socket timeout from ever firing."""
@@ -138,8 +142,17 @@ def get(url, params=None, as_json=True, tries=5):
         code = getattr(e, "code", None)
         if attempt == tries - 1 or (code and 400 <= code < 500 and code != 429):
             raise RuntimeError(f"Request failed: {url[:300]}\n{e}")
-        print(f"  retrying after: {str(e)[:120]}", flush=True)
-        time.sleep(2 ** attempt)
+        if code == 429:
+            # GBIF is asking us to slow down: wait as long as it says, or longer each time
+            try:
+                wait = int(e.headers.get("Retry-After"))
+            except (TypeError, ValueError, AttributeError):
+                wait = 20 * (attempt + 1)
+            print(f"  GBIF asked to slow down; waiting {wait} s", flush=True)
+            time.sleep(wait)
+        else:
+            print(f"  retrying after: {str(e)[:120]}", flush=True)
+            time.sleep(2 ** attempt)
 
 
 # ---------------------------------------------------------------- geometry --
@@ -199,6 +212,31 @@ class CountyIndex:
             if x0 <= lon <= x1 and y0 <= lat <= y1 and point_in_polys(lon, lat, c["polys"]):
                 return c["fips"]
         return None
+
+
+# -------------------------------------------------------------- checkpoints --
+
+_last_checkpoint = [time.time()]
+
+
+def checkpoint(message, force=False):
+    """On GitHub Actions, commit and push whatever is in data/ so far, so that
+    progress survives a canceled or timed-out run. Does nothing elsewhere."""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    if not force and (time.time() - _last_checkpoint[0]) / 60 < CHECKPOINT_MIN:
+        return
+    _last_checkpoint[0] = time.time()
+    git = ["git", "-c", "user.name=github-actions[bot]",
+           "-c", "user.email=41898299+github-actions[bot]@users.noreply.github.com"]
+    try:
+        subprocess.run(git + ["add", "data"], cwd=ROOT, check=True)
+        if subprocess.run(git + ["diff", "--cached", "--quiet"], cwd=ROOT).returncode != 0:
+            subprocess.run(git + ["commit", "-q", "-m", message], cwd=ROOT, check=True)
+            subprocess.run(git + ["push", "-q"], cwd=ROOT, check=True)
+            print(f"  saved progress to the repository ({message})", flush=True)
+    except subprocess.CalledProcessError as e:
+        print(f"  WARNING: could not save progress: {e}", flush=True)
 
 
 # -------------------------------------------------------------------- GBIF --
@@ -325,20 +363,23 @@ def update_effort(cache, group, taxon_key, counties, query_wkt):
         return c["fips"], {str(y): n for y, n in facet_counts(res, "YEAR").items()}
 
     done = 0
-    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        for i in range(0, len(todo), 100):
-            if (time.time() - RUN_START) / 60 > RUN_BUDGET_MIN:
-                print(f"  Time budget reached; {len(todo) - i} counties left for the next run.", flush=True)
-                break
-            for fips, counts in pool.map(one, todo[i:i + 100]):
-                if counts is None:
-                    failed.append(fips)
-                else:
-                    saved[fips] = {"fetched": dt.date.today().isoformat(), "counts": counts}
-                done += 1
+    for c in todo:
+        if (time.time() - RUN_START) / 60 > RUN_BUDGET_MIN:
+            print(f"  Time budget reached; {len(todo) - done} counties left for the next run.", flush=True)
+            break
+        fips, counts = one(c)
+        if counts is None:
+            failed.append(fips)
+        else:
+            saved[fips] = {"fetched": dt.date.today().isoformat(), "counts": counts}
+        done += 1
+        if done % 100 == 0 or done == len(todo):
             EFFORT_CACHE.write_text(json.dumps(cache, separators=(",", ":")))
             print(f"  {EFFORT_TAXA[group]['name']}: {done} of {len(todo)} queried, "
                   f"{(time.time() - RUN_START) / 60:.0f} min into run", flush=True)
+            checkpoint(f"Effort counts: {EFFORT_TAXA[group]['name']} {done}/{len(todo)}")
+        time.sleep(EFFORT_PAUSE_SEC)
+    EFFORT_CACHE.write_text(json.dumps(cache, separators=(",", ":")))
     effort = {f: {int(y): n for y, n in v["counts"].items()} for f, v in saved.items()}
     pending = [c["fips"] for c in counties if c["fips"] not in saved]
     return effort, failed, pending
@@ -479,9 +520,21 @@ def main():
             except FileNotFoundError:
                 continue
         species_counts[sp["slug"]], species_meta[sp["slug"]] = counts, meta
+        checkpoint(f"Records: {sp['common']}", force=True)
+
+    cache = load_effort_cache()
+    month = dt.date.today().isoformat()[:7]
+    effort_done = all(
+        len([v for v in cache.get(g, {}).get("counties", {}).values() if v.get("fetched", "")[:7] == month])
+        >= len(counties) for g in EFFORT_TAXA)
+    species_done = all((SPDIR / sp["slug"] / "meta.json").exists() and
+                       json.loads((SPDIR / sp["slug"] / "meta.json").read_text())
+                       .get("records_fetched", "")[:7] == month for sp in SPECIES)
+    if effort_done and species_done and (DATA / "species.json").exists() and not os.environ.get("FORCE_REBUILD"):
+        print("Everything is already up to date for this month; nothing to do.")
+        return
 
     print("Counting observer effort per county")
-    cache = load_effort_cache()
     effort, status = {}, {}
     for group, t in EFFORT_TAXA.items():
         key, _ = match_taxon(t["name"], t["phylum"])
