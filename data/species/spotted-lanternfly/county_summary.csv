@@ -2603,508 +2603,508 @@ fips,county,state,first_record_year,records,insect_records,normal_djf_tmin_c,pop
 23019,Penobscot,ME,,0,19115,-12.4,152199,8799.1,17.3,6.6,162.7,303.9,"Manchester, New Hampshire",
 23025,Somerset,ME,,0,5104,-13.73,50477,10164.2,4.97,21.6,26.5,247.9,"Manchester, New Hampshire",
 40121,Pittsburg,OK,,0,854,-0.28,43773,3381.1,12.95,53.6,0.0,123.8,"Broken Arrow, Oklahoma",
-40129,Roger Mills,OK,,0,0,-3.27,3442,2955.5,1.16,30.6,0.0,193.4,"Oklahoma City, Oklahoma",not yet queried
-24045,Wicomico,MD,2025,17,0,-1.58,103588,969.8,106.81,109.4,0.0,134.4,"Alexandria, Virginia",not yet queried
-25025,Suffolk,MA,2024,69,0,-5.23,797936,150.6,5297.74,1.3,32.2,3.1,"Boston, Massachusetts",not yet queried
-26001,Alcona,MI,,0,0,-9.82,10167,1747.2,5.82,76.8,0.0,233.0,"Lansing, Michigan",not yet queried
-41015,Curry,OR,,0,0,2.86,23446,4215.1,5.56,83.3,0.0,224.7,"Eugene, Oregon",not yet queried
-41025,Harney,OR,,0,0,-6.18,7495,26244.8,0.29,163.8,0.0,223.2,"Boise City, Idaho",not yet queried
-26089,Leelanau,MI,,0,0,-7.82,22301,899.2,24.8,80.9,0.0,186.1,"Green Bay, Wisconsin",not yet queried
-26105,Mason,MI,,0,0,-7.74,29052,1282.2,22.66,83.7,0.0,125.4,"Grand Rapids, Michigan",not yet queried
-28147,Walthall,MS,,0,0,4.42,13884,1046.2,13.27,33.8,0.0,123.9,"Baton Rouge, Louisiana",not yet queried
-42107,Schuylkill,PA,2015,549,0,-6.13,143049,2016.7,70.93,7.3,67.1,60.3,"Allentown, Pennsylvania",not yet queried
-42127,Wayne,PA,2023,1,0,-8.08,51155,1879.3,27.22,20.8,13.7,105.4,"Allentown, Pennsylvania",not yet queried
-42129,Westmoreland,PA,2015,244,0,-5.28,354663,2661.4,133.26,7.8,90.4,35.6,"Pittsburgh, Pennsylvania",not yet queried
-49015,Emery,UT,,0,0,-7.23,9825,11557.3,0.85,39.5,118.8,129.6,"Provo, Utah",not yet queried
-49021,Iron,UT,,0,0,-6.81,57289,8538.4,6.71,0.2,95.9,247.1,"North Las Vegas, Nevada",not yet queried
-49025,Kane,UT,,0,0,-4.99,7667,10334.7,0.74,76.4,0.0,254.4,"Henderson, Nevada",not yet queried
-47029,Cocke,TN,,0,0,-1.09,35999,1125.5,31.98,2.6,31.8,66.8,"Knoxville, Tennessee",not yet queried
-23027,Waldo,ME,,0,0,-10.29,39607,1890.5,20.95,32.3,2.0,252.8,"Manchester, New Hampshire",not yet queried
-31157,Scotts Bluff,NE,,0,0,-8.98,36084,1915.0,18.84,72.2,0.0,184.8,"Fort Collins, Colorado",not yet queried
-31165,Sioux,NE,,0,0,-10.15,1135,5352.8,0.21,97.8,0.0,228.9,"Fort Collins, Colorado",not yet queried
-31175,Valley,NE,,0,0,-9.53,4059,1471.2,2.76,93.8,0.0,206.1,"Lincoln, Nebraska",not yet queried
-31177,Washington,NE,,0,0,-8.64,20865,1010.0,20.66,19.5,0.0,31.2,"Omaha, Nebraska",not yet queried
-32001,Churchill,NV,,0,0,-5.58,25516,12769.8,2.0,36.7,53.9,86.9,"Reno, Nevada",not yet queried
-32003,Clark,NV,,0,0,2.63,2265461,20438.7,110.84,1.7,254.9,3.4,"Las Vegas, Nevada",not yet queried
-26011,Arenac,MI,,0,0,-8.51,15002,940.7,15.95,12.7,31.4,156.1,"Lansing, Michigan",not yet queried
-30067,Park,MT,,0,0,-10.61,17191,7259.9,2.37,4.3,52.1,164.6,"Billings, Montana",not yet queried
-30073,Pondera,MT,,0,0,-11.05,5898,4203.2,1.4,17.2,47.8,387.6,"Billings, Montana",not yet queried
-30079,Prairie,MT,,0,0,-12.68,1088,4498.1,0.24,2.0,44.0,273.8,"Billings, Montana",not yet queried
-30081,Ravalli,MT,,0,0,-8.8,44174,6192.2,7.13,53.8,0.0,291.2,"Spokane, Washington",not yet queried
-30089,Sanders,MT,,0,0,-6.71,12400,7149.7,1.73,31.6,8.6,170.3,"Spokane, Washington",not yet queried
-30095,Stillwater,MT,,0,0,-9.32,8963,4649.9,1.93,2.2,58.1,60.4,"Billings, Montana",not yet queried
-26109,Menominee,MI,,0,0,-12.0,23502,2704.2,8.69,100.5,0.0,97.9,"Green Bay, Wisconsin",not yet queried
-28149,Warren,MS,,0,0,3.84,44722,1524.2,29.34,1.1,22.0,61.8,"Jackson, Mississippi",not yet queried
-28161,Yalobusha,MS,,0,0,1.42,12481,1209.9,10.32,17.9,30.4,123.7,"Memphis, Tennessee",not yet queried
-29005,Atchison,MO,,0,0,-7.49,5305,1417.5,3.74,9.8,40.5,104.3,"Omaha, Nebraska",not yet queried
-29011,Barton,MO,,0,0,-2.99,11637,1533.1,7.59,46.5,0.0,94.5,"Springfield, Missouri",not yet queried
-29019,Boone,MO,,0,0,-4.76,183610,1775.2,103.43,1.0,34.8,1.2,"Columbia, Missouri",not yet queried
-29025,Caldwell,MO,,0,0,-6.17,8815,1104.4,7.98,20.5,0.0,73.4,"Independence, Missouri",not yet queried
-39085,Lake,OH,2024,24,0,-5.21,232603,589.2,394.77,4.2,47.3,37.3,"Cleveland, Ohio",not yet queried
-39095,Lucas,OH,2022,454,0,-5.39,431279,882.8,488.53,3.5,59.8,5.5,"Toledo, Ohio",not yet queried
-44009,Washington,RI,2024,11,0,-4.46,129839,852.7,152.27,9.8,21.6,42.5,"Providence, Rhode Island",not yet queried
-45011,Barnwell,SC,,0,0,2.6,20589,1420.3,14.5,50.2,0.0,63.6,"Augusta-Richmond County, Georgia",not yet queried
-45013,Beaufort,SC,,0,0,5.42,187117,1492.6,125.37,22.9,0.0,39.3,"Savannah, Georgia",not yet queried
-32015,Lander,NV,,0,0,-6.46,5734,14219.3,0.4,13.2,42.5,265.5,"Reno, Nevada",not yet queried
-32019,Lyon,NV,,0,0,-5.23,59235,5183.1,11.43,27.5,17.4,45.8,"Reno, Nevada",not yet queried
-32029,Storey,NV,,0,0,-3.81,4104,681.0,6.03,14.3,7.9,22.6,"Reno, Nevada",not yet queried
-39111,Monroe,OH,,0,0,-4.63,13385,1180.3,11.34,34.8,0.0,119.5,"Pittsburgh, Pennsylvania",not yet queried
-39113,Montgomery,OH,,0,0,-4.58,537309,1195.4,449.47,0.3,89.0,2.1,"Dayton, Ohio",not yet queried
-39123,Ottawa,OH,2024,20,0,-5.04,40364,660.2,61.14,14.8,12.3,41.9,"Toledo, Ohio",not yet queried
-39145,Scioto,OH,2026,1,0,-3.61,74008,1580.4,46.83,46.9,0.0,132.4,"Columbus, Ohio",not yet queried
-39155,Trumbull,OH,2022,10,0,-6.33,201977,1601.4,126.13,10.6,36.0,65.7,"Akron, Ohio",not yet queried
-30103,Treasure,MT,,0,0,-10.75,762,2531.5,0.3,0.9,42.4,110.0,"Billings, Montana",not yet queried
-30105,Valley,MT,,0,0,-14.72,7578,12757.8,0.59,183.1,0.0,309.9,"Billings, Montana",not yet queried
-38077,Richland,ND,,0,0,-15.05,16529,3718.7,4.44,5.4,77.1,67.8,"Fargo, North Dakota",not yet queried
-38085,Sioux,ND,,0,0,-14.13,3898,2833.7,1.38,73.0,0.0,313.1,"Fargo, North Dakota",not yet queried
-38099,Walsh,ND,,0,0,-17.24,10563,3320.2,3.18,27.1,38.7,177.1,"Fargo, North Dakota",not yet queried
-38105,Williams,ND,,0,0,-15.43,40950,5380.4,7.61,137.4,0.0,461.1,"Billings, Montana",not yet queried
-29031,Cape Girardeau,MO,,0,0,-2.58,81710,1498.4,54.53,0.4,44.4,151.5,"St. Louis, Missouri",not yet queried
-29037,Cass,MO,,0,0,-4.74,107824,1804.8,59.74,21.0,0.0,33.5,"Overland Park, Kansas",not yet queried
-36047,Kings,NY,2020,2607,0,-1.82,2736074,183.4,14917.58,3.8,27.2,8.1,"New York, New York",not yet queried
-36053,Madison,NY,,0,0,-9.03,68016,1696.0,40.1,10.7,29.1,35.3,"Syracuse, New York",not yet queried
-36061,New York,NY,2020,4275,0,-2.04,1694251,59.1,28654.5,3.4,16.8,7.8,"New York, New York",not yet queried
-36067,Onondaga,NY,2023,14,0,-7.9,476516,2016.0,236.36,0.3,131.2,2.7,"Syracuse, New York",not yet queried
-41045,Malheur,OR,,0,0,-5.63,31571,25608.6,1.23,10.0,41.3,78.7,"Boise City, Idaho",not yet queried
-41055,Sherman,OR,,0,0,-2.44,1870,2133.4,0.88,18.6,23.8,133.5,"Gresham, Oregon",not yet queried
-41057,Tillamook,OR,,0,0,1.77,27390,2855.7,9.59,83.4,0.0,87.2,"Salem, Oregon",not yet queried
-41063,Wallowa,OR,,0,0,-6.25,7391,8148.6,0.91,59.1,0.0,220.9,"Boise City, Idaho",not yet queried
-41067,Washington,OR,,0,0,1.22,600372,1875.7,320.07,10.9,13.7,15.7,"Portland, Oregon",not yet queried
-29101,Johnson,MO,,0,0,-4.76,54013,2147.8,25.15,26.8,0.0,66.8,"Independence, Missouri",not yet queried
-29107,Lafayette,MO,,0,0,-5.08,32984,1627.6,20.26,5.5,53.4,49.3,"Independence, Missouri",not yet queried
-29113,Lincoln,MO,,0,0,-4.82,59574,1622.8,36.71,19.3,0.0,75.3,"St. Louis, Missouri",not yet queried
-29123,Madison,MO,,0,0,-3.91,12626,1280.5,9.86,40.0,0.0,122.2,"St. Louis, Missouri",not yet queried
-29127,Marion,MO,,0,0,-5.8,28525,1131.6,25.21,6.3,2.6,115.9,"Columbia, Missouri",not yet queried
-39163,Vinton,OH,,0,0,-4.09,12800,1068.0,11.98,76.0,0.0,91.0,"Columbus, Ohio",not yet queried
-47073,Hawkins,TN,,0,0,-1.45,56721,1261.3,44.97,15.5,0.0,108.9,"Knoxville, Tennessee",not yet queried
-47079,Henry,TN,,0,0,-0.99,32199,1455.8,22.12,55.5,0.0,86.1,"Clarksville, Tennessee",not yet queried
-47089,Jefferson,TN,,0,0,-0.86,54683,709.9,77.03,3.1,46.1,43.4,"Knoxville, Tennessee",not yet queried
-47091,Johnson,TN,,0,0,-3.44,17948,773.0,23.22,30.0,0.0,147.8,"Winston-Salem, North Carolina",not yet queried
-47097,Lauderdale,TN,,0,0,0.37,25143,1222.5,20.57,34.8,0.0,82.9,"Memphis, Tennessee",not yet queried
-47103,Lincoln,TN,,0,0,-0.36,35319,1477.2,23.91,28.0,0.0,42.0,"Huntsville, Alabama",not yet queried
-47115,Marion,TN,,0,0,-0.31,28837,1290.2,22.35,5.5,47.1,28.0,"Chattanooga, Tennessee",not yet queried
-47121,Meigs,TN,,0,0,-0.33,12758,505.4,25.25,13.1,0.0,67.8,"Chattanooga, Tennessee",not yet queried
-47123,Monroe,TN,,0,0,-0.71,46250,1646.1,28.1,16.7,7.7,62.9,"Knoxville, Tennessee",not yet queried
-47131,Obion,TN,,0,0,-0.83,30787,1410.8,21.82,41.0,0.0,153.5,"Clarksville, Tennessee",not yet queried
-39007,Ashtabula,OH,2025,1,0,-6.12,97574,1818.0,53.67,2.5,46.5,67.8,"Erie, Pennsylvania",not yet queried
-48371,Pecos,TX,,0,0,1.31,15193,12338.3,1.23,0.8,161.6,113.2,"Odessa, Texas",not yet queried
-48377,Presidio,TX,,0,0,1.52,6131,9985.0,0.61,135.4,0.0,286.4,"Odessa, Texas",not yet queried
-48391,Refugio,TX,,0,0,8.65,6741,1995.4,3.38,54.0,0.0,56.1,"Corpus Christi, Texas",not yet queried
-48401,Rusk,TX,,0,0,3.68,52214,2393.2,21.82,26.6,0.0,50.2,"Tyler, Texas",not yet queried
-48407,San Jacinto,TX,,0,0,5.78,27402,1474.3,18.59,35.4,0.0,90.4,"Houston, Texas",not yet queried
-48409,San Patricio,TX,,0,0,9.33,68755,1796.0,38.28,13.7,38.3,15.7,"Corpus Christi, Texas",not yet queried
-36079,Putnam,NY,2022,105,0,-6.2,97668,596.5,163.73,7.5,24.3,42.7,"Stamford, Connecticut",not yet queried
-48443,Terrell,TX,,0,0,2.1,760,6107.3,0.12,78.3,0.0,187.5,"Odessa, Texas",not yet queried
-48461,Upton,TX,,0,0,1.57,3308,3215.0,1.03,32.3,0.0,77.5,"Odessa, Texas",not yet queried
-48465,Val Verde,TX,,0,0,3.67,47586,8144.9,5.84,132.9,0.0,233.5,"San Antonio, Texas",not yet queried
-48473,Waller,TX,,0,0,6.34,56794,1329.8,42.71,24.5,16.8,62.2,"Houston, Texas",not yet queried
-48479,Webb,TX,,0,0,8.08,267114,8706.2,30.68,27.1,31.7,1.0,"Laredo, Texas",not yet queried
-48487,Wilbarger,TX,,0,0,-0.4,12887,2514.5,5.13,68.4,0.0,78.1,"Wichita Falls, Texas",not yet queried
-48495,Winkler,TX,,0,0,-0.16,7791,2178.5,3.58,33.5,0.0,68.9,"Odessa, Texas",not yet queried
-48501,Yoakum,TX,,0,0,-2.03,7694,2071.2,3.71,114.5,0.0,109.7,"Lubbock, Texas",not yet queried
-48505,Zapata,TX,,0,0,9.33,13889,2585.9,5.37,96.8,0.0,72.3,"Laredo, Texas",not yet queried
-49003,Box Elder,UT,,0,0,-7.47,57666,14880.9,3.88,3.0,144.6,94.7,"Salt Lake City, Utah",not yet queried
-48005,Angelina,TX,,0,0,4.32,86395,2066.2,41.81,104.9,0.0,128.1,"Tyler, Texas",not yet queried
-48007,Aransas,TX,,0,0,9.65,23830,652.9,36.5,39.3,0.0,40.9,"Corpus Christi, Texas",not yet queried
-48037,Bowie,TX,,0,0,2.1,92893,2292.2,40.53,3.1,66.6,110.0,"Shreveport, Louisiana",not yet queried
-48043,Brewster,TX,,0,0,1.8,9546,16015.8,0.6,84.0,0.0,216.3,"Odessa, Texas",not yet queried
-29183,St. Charles,MO,,0,0,-4.04,405262,1451.5,279.2,2.1,42.0,44.1,"St. Louis, Missouri",not yet queried
-29189,St. Louis,MO,,0,0,-3.53,1004125,1315.2,763.48,3.3,160.7,16.5,"St. Louis, Missouri",not yet queried
-29199,Scotland,MO,,0,0,-7.19,4716,1131.0,4.17,86.8,0.0,168.4,"Columbia, Missouri",not yet queried
-24005,Baltimore,MD,2021,814,0,-3.37,854535,1549.6,551.46,2.8,157.5,8.8,"Baltimore, Maryland",not yet queried
-24025,Harford,MD,2020,333,0,-3.2,260924,1132.1,230.49,5.8,29.5,36.5,"Baltimore, Maryland",not yet queried
-26013,Baraga,MI,,0,0,-13.47,8158,2326.5,3.51,229.1,0.0,251.9,"Green Bay, Wisconsin",not yet queried
-26029,Charlevoix,MI,,0,0,-9.04,26054,1078.3,24.16,36.5,0.0,243.2,"Green Bay, Wisconsin",not yet queried
-30111,Yellowstone,MT,,0,0,-9.21,164731,6820.2,24.15,2.9,148.6,3.6,"Billings, Montana",not yet queried
-31015,Boyd,NE,,0,0,-10.04,1810,1398.4,1.29,91.0,0.0,178.3,"Sioux Falls, South Dakota",not yet queried
-31021,Burt,NE,,0,0,-9.33,6722,1273.2,5.28,20.6,0.0,72.4,"Omaha, Nebraska",not yet queried
-26121,Muskegon,MI,,0,0,-6.92,175824,1293.0,135.98,1.9,13.8,54.2,"Grand Rapids, Michigan",not yet queried
-26127,Oceana,MI,,0,0,-7.57,26659,1326.3,20.1,45.5,0.0,90.7,"Grand Rapids, Michigan",not yet queried
-26139,Ottawa,MI,,0,0,-6.48,296200,1459.4,202.96,11.4,65.8,28.8,"Grand Rapids, Michigan",not yet queried
-26141,Presque Isle,MI,,0,0,-9.92,12982,1706.1,7.61,56.7,0.0,297.7,"Lansing, Michigan",not yet queried
-26151,Sanilac,MI,,0,0,-7.46,40611,2493.0,16.29,42.8,0.0,89.9,"Sterling Heights, Michigan",not yet queried
-26153,Schoolcraft,MI,,0,0,-11.08,8047,3033.8,2.65,113.8,0.0,217.1,"Green Bay, Wisconsin",not yet queried
-45019,Charleston,SC,,0,0,4.74,408235,2372.7,172.06,1.5,54.4,3.2,"North Charleston, South Carolina",not yet queried
-46071,Jackson,SD,,0,0,-10.1,2806,4827.5,0.58,21.9,78.8,396.8,"Sioux Falls, South Dakota",not yet queried
-46081,Lawrence,SD,,0,0,-10.53,25768,2072.1,12.44,2.5,42.6,397.5,"Billings, Montana",not yet queried
-46083,Lincoln,SD,,0,0,-11.43,65161,1495.1,43.58,4.2,46.6,11.6,"Sioux Falls, South Dakota",not yet queried
-46089,McPherson,SD,,0,0,-14.47,2411,2943.9,0.82,123.6,0.0,225.9,"Fargo, North Dakota",not yet queried
-46099,Minnehaha,SD,,0,0,-12.14,197214,2090.5,94.34,3.6,111.5,1.5,"Sioux Falls, South Dakota",not yet queried
-46105,Perkins,SD,,0,0,-12.78,2835,7434.5,0.38,127.0,0.0,447.0,"Fargo, North Dakota",not yet queried
-46109,Roberts,SD,,0,0,-14.42,10280,2851.7,3.6,2.3,75.2,141.0,"Fargo, North Dakota",not yet queried
-33001,Belknap,NH,,0,0,-9.83,63705,1036.6,61.46,11.7,27.7,58.4,"Manchester, New Hampshire",not yet queried
-33007,Coos,NH,2025,1,0,-13.65,31268,4648.2,6.73,41.9,0.0,173.0,"Manchester, New Hampshire",not yet queried
-33011,Hillsborough,NH,2025,1,0,-8.73,422937,2269.2,186.38,13.5,14.5,14.4,"Manchester, New Hampshire",not yet queried
-33013,Merrimack,NH,,0,0,-9.77,153808,2419.4,63.57,4.0,114.4,29.7,"Manchester, New Hampshire",not yet queried
-34001,Atlantic,NJ,2020,211,0,-2.63,274534,1439.3,190.75,62.2,0.0,76.7,"Philadelphia, Pennsylvania",not yet queried
-34005,Burlington,NJ,2019,269,0,-2.94,461860,2068.3,223.3,2.6,41.7,28.0,"Philadelphia, Pennsylvania",not yet queried
-34011,Cumberland,NJ,2021,48,0,-2.5,154152,1252.8,123.05,38.4,0.0,58.7,"Philadelphia, Pennsylvania",not yet queried
-31031,Cherry,NE,,0,0,-9.82,5455,15437.4,0.35,122.2,0.0,335.8,"Sioux Falls, South Dakota",not yet queried
-31043,Dakota,NE,,0,0,-10.28,21582,684.4,31.53,0.3,4.5,124.9,"Sioux Falls, South Dakota",not yet queried
-31049,Deuel,NE,,0,0,-8.72,1838,1139.2,1.61,4.6,54.0,236.7,"Fort Collins, Colorado",not yet queried
-31055,Douglas,NE,,0,0,-8.36,584526,850.7,687.12,0.4,39.8,6.1,"Omaha, Nebraska",not yet queried
-31061,Franklin,NE,,0,0,-8.23,2889,1491.4,1.94,54.9,0.0,203.7,"Lincoln, Nebraska",not yet queried
-31067,Gage,NE,,0,0,-7.74,21704,2205.4,9.84,60.0,0.0,61.1,"Lincoln, Nebraska",not yet queried
-39035,Cuyahoga,OH,2022,1112,0,-4.96,1264817,1184.1,1068.15,1.9,172.5,5.9,"Cleveland, Ohio",not yet queried
-39051,Fulton,OH,2024,2,0,-6.28,42713,1050.1,40.68,1.9,42.2,45.7,"Toledo, Ohio",not yet queried
-39053,Gallia,OH,2025,1,0,-3.44,29220,1208.3,24.18,44.6,0.0,140.8,"Columbus, Ohio",not yet queried
-29063,DeKalb,MO,,0,0,-6.58,11029,1091.3,10.11,13.3,5.1,82.5,"Independence, Missouri",not yet queried
-29069,Dunklin,MO,,0,0,-0.42,28283,1401.4,20.18,30.7,0.0,131.6,"Memphis, Tennessee",not yet queried
-29081,Harrison,MO,,0,0,-7.34,8157,1871.3,4.36,0.7,51.0,141.7,"Independence, Missouri",not yet queried
-29089,Howard,MO,,0,0,-4.97,10151,1201.4,8.45,23.4,0.0,38.2,"Columbia, Missouri",not yet queried
-29091,Howell,MO,,0,0,-3.2,39750,2401.6,16.55,110.9,0.0,133.5,"Springfield, Missouri",not yet queried
-37015,Bertie,NC,,0,0,0.57,17934,1811.1,9.9,70.7,0.0,97.5,"Chesapeake, Virginia",not yet queried
-37023,Burke,NC,,0,0,-1.26,87570,1313.4,66.68,0.4,41.7,91.3,"Charlotte, North Carolina",not yet queried
-37029,Camden,NC,,0,0,0.85,10355,623.0,16.62,43.6,0.0,45.4,"Chesapeake, Virginia",not yet queried
-37031,Carteret,NC,,0,0,3.25,67686,1311.2,51.62,99.6,0.0,117.9,"Wilmington, North Carolina",not yet queried
-29133,Mississippi,MO,,0,0,-1.26,12577,1066.0,11.8,5.2,27.8,181.6,"Clarksville, Tennessee",not yet queried
-29143,New Madrid,MO,,0,0,-0.87,16434,1747.8,9.4,7.5,56.5,167.7,"Memphis, Tennessee",not yet queried
-29149,Oregon,MO,,0,0,-3.01,8635,2045.6,4.22,147.2,0.0,173.8,"Springfield, Missouri",not yet queried
-29155,Pemiscot,MO,,0,0,-0.2,15661,1275.7,12.28,0.8,65.6,118.6,"Memphis, Tennessee",not yet queried
-29165,Platte,MO,,0,0,-5.36,106718,1088.3,98.06,1.0,84.4,17.1,"Kansas City, Kansas",not yet queried
-37101,Johnston,NC,,0,0,0.68,215999,2049.5,105.39,11.2,94.1,30.6,"Raleigh, North Carolina",not yet queried
-37107,Lenoir,NC,,0,0,1.32,55122,1037.5,53.13,51.9,0.0,107.4,"Raleigh, North Carolina",not yet queried
-37113,Macon,NC,,0,0,-2.44,37014,1335.3,27.72,59.2,0.0,102.4,"Knoxville, Tennessee",not yet queried
-37119,Mecklenburg,NC,2025,6,0,0.25,1115482,1356.7,822.17,3.7,167.8,2.1,"Charlotte, North Carolina",not yet queried
-37125,Moore,NC,,0,0,0.64,99727,1807.4,55.18,44.5,0.0,54.7,"Fayetteville, North Carolina",not yet queried
-40001,Adair,OK,,0,0,-1.62,19495,1485.3,13.13,40.5,0.0,105.6,"Broken Arrow, Oklahoma",not yet queried
-40007,Beaver,OK,,0,0,-4.89,5049,4700.0,1.07,179.5,0.0,209.2,"Amarillo, Texas",not yet queried
-40021,Cherokee,OK,,0,0,-1.36,47078,1941.0,24.26,44.4,0.0,73.8,"Broken Arrow, Oklahoma",not yet queried
-40023,Choctaw,OK,,0,0,0.45,14204,1995.2,7.12,96.8,0.0,137.5,"McKinney, Texas",not yet queried
-40033,Cotton,OK,,0,0,-0.47,5527,1638.6,3.37,7.6,41.1,47.0,"Wichita Falls, Texas",not yet queried
-40041,Delaware,OK,,0,0,-2.03,40397,1911.9,21.13,31.3,0.0,100.4,"Broken Arrow, Oklahoma",not yet queried
-40051,Grady,OK,,0,0,-1.09,54795,2850.3,19.22,0.4,55.5,39.1,"Norman, Oklahoma",not yet queried
-37189,Watauga,NC,,0,0,-3.66,54086,809.5,66.81,55.0,0.0,129.2,"Winston-Salem, North Carolina",not yet queried
-48051,Burleson,TX,,0,0,5.04,17642,1706.9,10.34,86.1,0.0,34.2,"College Station, Texas",not yet queried
-35023,Hidalgo,NM,,0,0,-1.84,4178,8901.4,0.47,5.3,55.3,188.1,"Las Cruces, New Mexico",not yet queried
-35029,Luna,NM,,0,0,-1.76,25427,7679.8,3.31,4.9,88.6,92.3,"Las Cruces, New Mexico",not yet queried
-35031,McKinley,NM,,0,0,-7.75,72902,14115.0,5.16,1.7,110.4,189.1,"Albuquerque, New Mexico",not yet queried
-35035,Otero,NM,,0,0,-2.18,67839,17128.1,3.96,86.0,0.0,87.7,"Las Cruces, New Mexico",not yet queried
-47153,Sequatchie,TN,,0,0,-0.92,15826,688.6,22.98,37.5,0.0,35.4,"Chattanooga, Tennessee",not yet queried
-47157,Shelby,TN,,0,0,1.09,929744,1976.6,470.37,2.6,68.4,14.8,"Memphis, Tennessee",not yet queried
-47163,Sullivan,TN,2024,41,0,-1.9,158163,1070.6,147.73,0.2,72.8,149.9,"Knoxville, Tennessee",not yet queried
-47171,Unicoi,TN,2026,1,0,-2.59,17928,482.2,37.18,1.0,42.1,137.9,"Knoxville, Tennessee",not yet queried
-47181,Wayne,TN,,0,0,-0.68,16232,1901.3,8.54,68.7,0.0,124.0,"Huntsville, Alabama",not yet queried
-45057,Lancaster,SC,,0,0,0.62,96016,1422.3,67.51,22.3,0.0,47.7,"Charlotte, North Carolina",not yet queried
-36085,Richmond,NY,2020,412,0,-2.25,495747,151.2,3279.23,2.1,14.7,10.4,"Elizabeth, New Jersey",not yet queried
-36097,Schuyler,NY,2026,1,0,-7.91,17898,850.4,21.05,25.1,0.0,94.2,"Syracuse, New York",not yet queried
-36105,Sullivan,NY,2022,8,0,-8.07,78624,2507.5,31.36,36.2,0.0,97.8,"Paterson, New Jersey",not yet queried
-36111,Ulster,NY,2020,376,0,-7.56,181851,2911.8,62.45,3.4,65.8,92.1,"Waterbury, Connecticut",not yet queried
-36115,Washington,NY,2022,2,0,-9.78,61302,2152.8,28.48,17.6,0.0,150.5,"Springfield, Massachusetts",not yet queried
-36119,Westchester,NY,2021,1196,0,-4.62,1004457,1115.0,900.87,1.7,99.4,14.3,"Yonkers, New York",not yet queried
-45091,York,SC,,0,0,0.32,282090,1762.7,160.03,5.3,33.7,31.8,"Charlotte, North Carolina",not yet queried
-46009,Bon Homme,SD,,0,0,-10.4,7003,1460.0,4.8,78.1,0.0,111.8,"Sioux Falls, South Dakota",not yet queried
-46013,Brown,SD,,0,0,-14.49,38301,4436.6,8.63,109.9,0.0,201.8,"Fargo, North Dakota",not yet queried
-46021,Campbell,SD,,0,0,-14.07,1377,1900.2,0.72,115.7,0.0,282.0,"Fargo, North Dakota",not yet queried
-29209,Stone,MO,,0,0,-2.88,31076,1201.8,25.86,52.0,0.0,55.9,"Springfield, Missouri",not yet queried
-29217,Vernon,MO,,0,0,-3.37,19707,2140.4,9.21,84.6,0.0,115.4,"Springfield, Missouri",not yet queried
-29227,Worth,MO,,0,0,-7.76,1973,690.5,2.86,38.6,0.0,143.0,"Des Moines, Iowa",not yet queried
-30001,Beaverhead,MT,,0,0,-11.15,9371,14352.8,0.65,3.7,141.5,332.0,"Boise City, Idaho",not yet queried
-37171,Surry,NC,2024,1,0,-1.69,71359,1378.3,51.77,1.1,73.3,52.2,"Winston-Salem, North Carolina",not yet queried
-37177,Tyrrell,NC,,0,0,2.02,3245,1007.6,3.22,96.2,0.0,97.9,"Chesapeake, Virginia",not yet queried
-39067,Harrison,OH,2024,5,0,-5.17,14483,1042.1,13.9,27.9,0.0,90.2,"Pittsburgh, Pennsylvania",not yet queried
-39073,Hocking,OH,2025,1,0,-4.55,28050,1091.2,25.71,47.0,0.0,67.6,"Columbus, Ohio",not yet queried
-39079,Jackson,OH,,0,0,-3.79,32653,1088.6,30.0,72.1,0.0,108.8,"Columbus, Ohio",not yet queried
-48057,Calhoun,TX,,0,0,9.0,20106,1312.7,15.32,113.7,0.0,115.5,"Corpus Christi, Texas",not yet queried
-48071,Chambers,TX,,0,0,8.08,46571,1546.6,30.11,2.6,54.5,44.4,"Pasadena, Texas",not yet queried
-48093,Comanche,TX,,0,0,1.83,13594,2428.8,5.6,51.5,0.0,122.3,"Abilene, Texas",not yet queried
-48097,Cooke,TX,,0,0,1.29,41668,2265.6,18.39,2.8,34.5,43.8,"Denton, Texas",not yet queried
-24510,Baltimore,MD,2021,909,0,-1.99,585708,209.6,2793.82,0.2,56.7,2.7,"Baltimore, Maryland",not yet queried
-45063,Lexington,SC,,0,0,2.01,293991,1810.2,162.41,0.6,84.0,17.4,"Columbia, South Carolina",not yet queried
-45067,Marion,SC,,0,0,2.47,29183,1267.1,23.03,26.6,0.0,107.7,"Fayetteville, North Carolina",not yet queried
-45077,Pickens,SC,,0,0,0.7,131404,1285.7,102.21,19.8,0.0,113.2,"Athens-Clarke County, Georgia",not yet queried
-26053,Gogebic,MI,,0,0,-14.32,14380,2853.8,5.04,160.3,0.0,263.9,"Green Bay, Wisconsin",not yet queried
-46027,Clay,SD,,0,0,-10.83,14967,1067.6,14.02,10.6,20.7,83.8,"Sioux Falls, South Dakota",not yet queried
-46031,Corson,SD,,0,0,-13.32,3902,6396.5,0.61,118.0,0.0,341.6,"Fargo, North Dakota",not yet queried
-46047,Fall River,SD,,0,0,-10.03,6973,4506.4,1.55,83.3,0.0,339.0,"Fort Collins, Colorado",not yet queried
-46053,Gregory,SD,,0,0,-10.06,3994,2628.7,1.52,63.1,0.0,209.5,"Sioux Falls, South Dakota",not yet queried
-27007,Beltrami,MN,,0,0,-17.76,46228,6487.8,7.13,155.3,0.0,166.3,"Fargo, North Dakota",not yet queried
-27015,Brown,MN,,0,0,-12.55,25912,1582.7,16.37,67.7,0.0,130.3,"Minneapolis, Minnesota",not yet queried
-27021,Cass,MN,,0,0,-16.1,30066,5235.8,5.74,122.9,0.0,181.8,"Fargo, North Dakota",not yet queried
-27027,Clay,MN,,0,0,-16.12,65318,2707.5,24.12,1.1,43.7,9.2,"Fargo, North Dakota",not yet queried
-46123,Tripp,SD,,0,0,-10.12,5624,4176.2,1.35,58.4,0.0,252.0,"Sioux Falls, South Dakota",not yet queried
-46135,Yankton,SD,,0,0,-10.71,23310,1349.8,17.27,47.6,0.0,89.8,"Sioux Falls, South Dakota",not yet queried
-30011,Carter,MT,,0,0,-12.17,1415,8652.5,0.16,128.5,0.0,309.8,"Billings, Montana",not yet queried
-30017,Custer,MT,,0,0,-11.94,11867,9798.9,1.21,2.1,68.7,219.1,"Billings, Montana",not yet queried
-30025,Fallon,MT,,0,0,-12.73,3049,4197.8,0.73,67.6,0.0,330.5,"Billings, Montana",not yet queried
-30027,Fergus,MT,,0,0,-10.38,11446,11240.0,1.02,144.2,0.0,161.3,"Billings, Montana",not yet queried
-30033,Garfield,MT,,0,0,-12.37,1173,12109.1,0.1,116.3,0.0,207.2,"Billings, Montana",not yet queried
-30039,Granite,MT,,0,0,-9.43,3309,4474.0,0.74,26.1,44.5,341.0,"Spokane, Washington",not yet queried
-30045,Judith Basin,MT,,0,0,-9.96,2023,4842.8,0.42,99.1,0.0,194.1,"Billings, Montana",not yet queried
-31131,Otoe,NE,,0,0,-7.93,15912,1594.5,9.98,18.8,0.0,57.0,"Lincoln, Nebraska",not yet queried
-25005,Bristol,MA,2024,77,0,-4.84,579200,1432.5,404.32,10.2,92.9,25.2,"Providence, Rhode Island",not yet queried
-25009,Essex,MA,2024,29,0,-6.29,809829,1275.7,634.79,1.4,106.1,26.5,"Lowell, Massachusetts",not yet queried
-25019,Nantucket,MA,2023,1,0,-2.16,14255,116.5,122.39,76.5,0.0,126.1,"Providence, Rhode Island",not yet queried
-34023,Middlesex,NJ,2019,790,0,-3.39,863162,800.1,1078.84,0.0,61.4,25.1,"Elizabeth, New Jersey",not yet queried
-26055,Grand Traverse,MI,,0,0,-8.69,95238,1202.6,79.19,71.5,0.0,191.8,"Green Bay, Wisconsin",not yet queried
-31091,Hooker,NE,,0,0,-9.58,711,1867.7,0.38,97.6,0.0,371.2,"Fort Collins, Colorado",not yet queried
-31095,Jefferson,NE,,0,0,-7.56,7240,1476.8,4.9,73.7,0.0,83.4,"Lincoln, Nebraska",not yet queried
-31103,Keya Paha,NE,,0,0,-9.95,769,2002.2,0.38,105.3,0.0,252.9,"Sioux Falls, South Dakota",not yet queried
-31111,Lincoln,NE,,0,0,-9.11,34676,6640.9,5.22,1.7,91.7,344.2,"Lincoln, Nebraska",not yet queried
-28089,Madison,MS,,0,0,3.0,109145,1850.6,58.98,0.7,38.8,24.7,"Jackson, Mississippi",not yet queried
-28093,Marshall,MS,,0,0,0.78,33752,1829.0,18.45,38.0,0.0,59.0,"Memphis, Tennessee",not yet queried
-27031,Cook,MN,,0,0,-17.08,5600,3761.4,1.49,162.8,0.0,379.3,"St. Paul, Minnesota",not yet queried
-27049,Goodhue,MN,,0,0,-12.39,47582,1960.2,24.27,50.2,0.0,50.6,"Rochester, Minnesota",not yet queried
-27055,Houston,MN,,0,0,-11.19,18843,1429.8,13.18,18.4,0.0,89.5,"Rochester, Minnesota",not yet queried
-37049,Craven,NC,,0,0,1.98,100720,1836.2,54.85,88.9,0.0,125.1,"Wilmington, North Carolina",not yet queried
-37051,Cumberland,NC,,0,0,1.28,334728,1689.5,198.12,11.8,62.4,5.3,"Fayetteville, North Carolina",not yet queried
-37131,Northampton,NC,,0,0,-0.29,17471,1389.8,12.57,14.8,11.0,109.4,"Chesapeake, Virginia",not yet queried
-37137,Pamlico,NC,,0,0,2.9,12276,871.6,14.08,112.1,0.0,144.1,"Wilmington, North Carolina",not yet queried
-37149,Polk,NC,,0,0,0.09,19328,615.9,31.38,3.1,19.8,120.4,"Charlotte, North Carolina",not yet queried
-37155,Robeson,NC,,0,0,1.67,116530,2458.5,47.4,7.1,123.8,46.3,"Fayetteville, North Carolina",not yet queried
-42091,Montgomery,PA,2015,1170,0,-3.95,856553,1251.1,684.66,0.7,88.8,27.4,"Philadelphia, Pennsylvania",not yet queried
-42097,Northumberland,PA,2022,44,0,-5.68,91647,1187.2,77.2,13.0,26.7,104.4,"Allentown, Pennsylvania",not yet queried
-42103,Pike,PA,2020,32,0,-7.53,58535,1411.4,41.47,5.4,50.7,80.2,"Paterson, New Jersey",not yet queried
-34025,Monmouth,NJ,2020,492,0,-3.07,643615,1214.2,530.09,13.4,24.4,42.1,"Elizabeth, New Jersey",not yet queried
-34039,Union,NJ,2020,332,0,-3.4,575345,266.4,2159.76,0.8,43.7,7.0,"Elizabeth, New Jersey",not yet queried
-35003,Catron,NM,,0,0,-7.63,3579,17932.3,0.2,131.7,0.0,216.0,"Albuquerque, New Mexico",not yet queried
-35005,Chaves,NM,,0,0,-2.94,65157,15709.0,4.15,176.0,0.0,239.6,"Las Cruces, New Mexico",not yet queried
-35009,Curry,NM,,0,0,-3.89,48430,3638.4,13.31,77.3,0.0,154.1,"Amarillo, Texas",not yet queried
-30061,Mineral,MT,,0,0,-6.83,4535,3158.3,1.44,1.4,107.7,199.3,"Spokane, Washington",not yet queried
-38001,Adams,ND,,0,0,-13.38,2200,2557.9,0.86,92.8,0.0,457.5,"Billings, Montana",not yet queried
-09011,New London,CT,2023,110,0,-5.11,268555,1722.0,155.95,1.9,94.8,60.4,"Hartford, Connecticut",not yet queried
-10001,Kent,DE,2021,99,0,-2.2,181851,1518.2,119.78,60.6,0.0,91.9,"Baltimore, Maryland",not yet queried
-10003,New Castle,DE,2018,563,0,-2.73,570719,1104.1,516.92,1.2,59.1,50.3,"Philadelphia, Pennsylvania",not yet queried
-12009,Brevard,FL,,0,0,11.99,606612,2630.6,230.6,2.3,115.7,23.3,"Palm Bay, Florida",not yet queried
-12075,Levy,FL,,0,0,7.79,42915,2896.1,14.82,37.3,0.0,44.5,"Gainesville, Florida",not yet queried
-05031,Craighead,AR,,0,0,-0.03,111231,1831.7,60.73,56.0,0.0,94.9,"Memphis, Tennessee",not yet queried
-05035,Crittenden,AR,,0,0,1.21,48163,1579.3,30.5,1.1,64.5,15.2,"Memphis, Tennessee",not yet queried
-05041,Desha,AR,,0,0,2.23,11395,1989.5,5.73,69.8,0.0,135.5,"Little Rock, Arkansas",not yet queried
-05057,Hempstead,AR,,0,0,1.24,20065,1884.3,10.65,1.8,38.2,131.5,"Shreveport, Louisiana",not yet queried
-05063,Independence,AR,,0,0,-0.55,37938,1978.6,19.17,101.0,0.0,128.1,"Little Rock, Arkansas",not yet queried
-05069,Jefferson,AR,,0,0,1.49,67260,2255.2,29.82,0.3,43.0,61.4,"Little Rock, Arkansas",not yet queried
-05075,Lawrence,AR,,0,0,-0.85,16216,1521.9,10.66,99.6,0.0,137.7,"Memphis, Tennessee",not yet queried
-05077,Lee,AR,,0,0,1.56,8600,1560.8,5.51,24.5,0.0,76.8,"Memphis, Tennessee",not yet queried
-04025,Yavapai,AZ,,0,0,-0.54,236209,21039.8,11.23,28.2,195.9,112.1,"Surprise, Arizona",not yet queried
-05005,Baxter,AR,,0,0,-2.2,41627,1435.6,29.0,120.8,0.0,126.9,"Springfield, Missouri",not yet queried
-05007,Benton,AR,,0,0,-2.18,284333,2194.6,129.56,4.0,27.9,128.3,"Springfield, Missouri",not yet queried
-16073,Owyhee,ID,,0,0,-6.05,11913,19853.6,0.6,26.6,0.0,46.8,"Boise City, Idaho",not yet queried
-16085,Valley,ID,,0,0,-10.56,11746,9491.1,1.24,104.9,0.0,128.4,"Boise City, Idaho",not yet queried
-16087,Washington,ID,,0,0,-5.42,10500,3763.2,2.79,20.6,0.0,94.5,"Boise City, Idaho",not yet queried
-17013,Calhoun,IL,,0,0,-4.64,4437,657.4,6.75,36.6,0.0,67.2,"St. Louis, Missouri",not yet queried
-17021,Christian,IL,,0,0,-5.16,34032,1837.3,18.52,33.2,0.0,44.3,"Springfield, Illinois",not yet queried
-17027,Clinton,IL,,0,0,-3.71,36899,1227.9,30.05,14.4,13.2,61.7,"St. Louis, Missouri",not yet queried
-16031,Cassia,ID,,0,0,-6.9,24655,6643.5,3.71,9.7,96.7,236.5,"Boise City, Idaho",not yet queried
-16035,Clearwater,ID,,0,0,-5.56,8734,6364.3,1.37,111.1,0.0,160.1,"Spokane, Washington",not yet queried
-16037,Custer,ID,,0,0,-11.87,4275,12745.2,0.34,120.0,0.0,184.8,"Boise City, Idaho",not yet queried
-16049,Idaho,ID,,0,0,-7.86,16541,21956.3,0.75,158.4,0.0,212.4,"Spokane, Washington",not yet queried
-16059,Lemhi,ID,,0,0,-10.51,7974,11819.1,0.67,80.6,0.0,251.7,"Boise City, Idaho",not yet queried
-18023,Clinton,IN,,0,0,-6.14,33190,1049.1,31.64,11.4,17.0,66.5,"Indianapolis, Indiana",not yet queried
-12021,Collier,FL,,0,0,13.3,375752,5175.6,72.6,4.4,103.6,47.2,"Cape Coral, Florida",not yet queried
-12033,Escambia,FL,2021,1,0,6.02,321905,1700.2,189.33,2.9,40.9,76.6,"Mobile, Alabama",not yet queried
-16007,Bear Lake,ID,,0,0,-11.41,6372,2524.7,2.52,69.4,0.0,179.0,"Salt Lake City, Utah",not yet queried
-16011,Bingham,ID,,0,0,-9.25,47992,5423.4,8.85,0.2,52.3,278.0,"Salt Lake City, Utah",not yet queried
-16013,Blaine,ID,,0,0,-10.07,24272,6846.9,3.54,86.5,0.0,154.2,"Boise City, Idaho",not yet queried
-05105,Perry,AR,,0,0,0.14,10019,1428.1,7.02,19.6,0.0,52.5,"Little Rock, Arkansas",not yet queried
-05107,Phillips,AR,,0,0,1.88,16568,1801.8,9.2,53.5,0.0,91.2,"Memphis, Tennessee",not yet queried
-05119,Pulaski,AR,,0,0,0.7,399125,1967.8,202.83,3.4,99.6,4.0,"Little Rock, Arkansas",not yet queried
-17031,Cook,IL,2023,50,0,-6.75,5275541,2448.4,2154.7,0.3,301.9,10.6,"Chicago, Illinois",not yet queried
-18123,Perry,IN,,0,0,-2.93,19170,988.7,19.39,23.1,19.7,75.4,"Evansville, Indiana",not yet queried
-18129,Posey,IN,,0,0,-2.61,25222,1060.8,23.78,18.2,24.8,22.1,"Evansville, Indiana",not yet queried
-18143,Scott,IN,,0,0,-3.74,24384,493.1,49.45,2.2,20.9,49.9,"Louisville, Kentucky",not yet queried
-18147,Spencer,IN,,0,0,-2.78,19810,1027.6,19.28,19.9,15.6,49.2,"Evansville, Indiana",not yet queried
-18155,Switzerland,IN,2023,9,0,-3.5,9737,571.4,17.04,15.7,0.0,54.4,"Cincinnati, Ohio",not yet queried
-18163,Vanderburgh,IN,,0,0,-2.68,180136,604.7,297.89,7.6,32.1,3.5,"Evansville, Indiana",not yet queried
-18029,Dearborn,IN,2024,5,0,-4.09,50679,790.0,64.15,7.7,28.5,35.3,"Cincinnati, Ohio",not yet queried
-18037,Dubois,IN,,0,0,-3.78,43637,1106.6,39.43,16.9,4.8,71.5,"Evansville, Indiana",not yet queried
-18039,Elkhart,IN,2025,1,0,-6.82,207047,1199.6,172.6,11.1,33.6,29.0,"South Bend, Indiana",not yet queried
-13135,Gwinnett,GA,2025,1,0,1.29,957062,1114.7,858.59,3.8,56.6,38.4,"Atlanta, Georgia",not yet queried
-13145,Harris,GA,,0,0,2.41,34668,1201.4,28.86,8.2,33.0,27.8,"Columbus, Georgia",not yet queried
-13151,Henry,GA,,0,0,1.81,240712,834.3,288.52,3.9,37.6,36.8,"Atlanta, Georgia",not yet queried
-13161,Jeff Davis,GA,,0,0,4.35,14779,856.6,17.25,65.1,0.0,143.6,"Savannah, Georgia",not yet queried
-13167,Johnson,GA,,0,0,3.24,9189,784.8,11.71,28.0,0.0,106.6,"Augusta-Richmond County, Georgia",not yet queried
-13177,Lee,GA,,0,0,4.15,33163,921.5,35.99,46.8,0.0,115.6,"Columbus, Georgia",not yet queried
-13179,Liberty,GA,,0,0,5.28,65256,1268.6,51.44,19.3,21.6,53.2,"Savannah, Georgia",not yet queried
-20107,Linn,KS,,0,0,-4.1,9591,1538.6,6.23,54.6,0.0,72.0,"Olathe, Kansas",not yet queried
-20117,Marshall,KS,,0,0,-7.31,10038,2331.5,4.31,83.0,0.0,112.5,"Topeka, Kansas",not yet queried
-17149,Pike,IL,,0,0,-5.28,14739,2153.3,6.84,6.1,67.1,104.5,"Springfield, Illinois",not yet queried
-17157,Randolph,IL,,0,0,-3.27,30163,1490.5,20.24,29.2,0.0,71.8,"St. Louis, Missouri",not yet queried
-17161,Rock Island,IL,,0,0,-8.03,144672,1107.6,130.62,0.0,51.2,7.3,"Davenport, Iowa",not yet queried
-17171,Scott,IL,,0,0,-5.31,4949,649.9,7.62,3.8,22.6,70.6,"Springfield, Illinois",not yet queried
-17173,Shelby,IL,,0,0,-4.92,20990,1964.6,10.68,31.4,7.1,84.0,"Springfield, Illinois",not yet queried
-17181,Union,IL,,0,0,-2.6,17244,1070.9,16.1,8.1,27.1,154.5,"St. Louis, Missouri",not yet queried
-17185,Wabash,IL,,0,0,-3.34,11361,578.2,19.65,27.2,0.0,54.9,"Evansville, Indiana",not yet queried
-17193,White,IL,,0,0,-2.91,13877,1281.4,10.83,17.4,27.1,55.9,"Evansville, Indiana",not yet queried
-17201,Winnebago,IL,,0,0,-8.83,285350,1329.6,214.61,7.9,43.7,5.0,"Rockford, Illinois",not yet queried
-13287,Turner,GA,,0,0,4.07,9006,739.2,12.18,0.4,26.6,152.3,"Columbus, Georgia",not yet queried
-13291,Union,GA,,0,0,-1.39,24632,833.8,29.54,65.7,0.0,119.1,"Athens-Clarke County, Georgia",not yet queried
-13299,Ware,GA,,0,0,5.26,36251,2311.5,15.68,72.5,0.0,121.3,"Jacksonville, Florida",not yet queried
-21105,Hickman,KY,,0,0,-1.25,4521,627.5,7.2,41.3,0.0,142.4,"Clarksville, Tennessee",not yet queried
-48273,Kleberg,TX,,0,0,10.17,31040,2282.6,13.6,47.2,0.0,57.0,"Corpus Christi, Texas",not yet queried
-48311,McMullen,TX,,0,0,7.46,600,2951.1,0.2,34.5,0.0,109.1,"San Antonio, Texas",not yet queried
-48315,Marion,TX,,0,0,3.3,9725,986.5,9.86,33.7,0.0,69.3,"Shreveport, Louisiana",not yet queried
-48321,Matagorda,TX,,0,0,8.63,36255,2849.7,12.72,93.8,0.0,99.6,"Pearland, Texas",not yet queried
-48337,Montague,TX,,0,0,0.74,19965,2411.0,8.28,54.6,0.0,74.3,"Wichita Falls, Texas",not yet queried
-54047,McDowell,WV,,0,0,-3.19,19111,1381.6,13.83,48.8,0.0,191.6,"Winston-Salem, North Carolina",not yet queried
-54057,Mineral,WV,2022,26,0,-4.45,26938,849.1,31.73,20.4,0.0,142.9,"Pittsburgh, Pennsylvania",not yet queried
-54063,Monroe,WV,,0,0,-3.79,12376,1224.4,10.11,34.5,0.0,163.5,"Winston-Salem, North Carolina",not yet queried
-54071,Pendleton,WV,2025,1,0,-5.45,6143,1802.8,3.41,48.6,0.0,197.8,"Alexandria, Virginia",not yet queried
-54077,Preston,WV,2020,8,0,-5.57,34216,1680.4,20.36,16.4,26.6,108.3,"Pittsburgh, Pennsylvania",not yet queried
-51059,Fairfax,VA,2022,2333,0,-2.19,1150309,1012.6,1135.99,3.1,87.1,18.8,"Alexandria, Virginia",not yet queried
-51071,Giles,VA,2025,2,0,-3.69,16787,921.5,18.22,26.5,0.0,142.8,"Winston-Salem, North Carolina",not yet queried
-51077,Grayson,VA,,0,0,-4.05,15333,1145.2,13.39,29.4,0.0,98.6,"Winston-Salem, North Carolina",not yet queried
-51083,Halifax,VA,,0,0,-1.72,34022,2118.2,16.06,59.0,0.0,84.6,"Durham, North Carolina",not yet queried
-51089,Henry,VA,2024,19,0,-1.73,50948,990.2,51.45,63.3,0.0,69.9,"Greensboro, North Carolina",not yet queried
-51093,Isle of Wight,VA,,0,0,0.08,38606,817.4,47.23,19.6,0.0,23.7,"Newport News, Virginia",not yet queried
-51099,King George,VA,,0,0,-1.72,26723,465.3,57.44,27.3,0.0,58.6,"Alexandria, Virginia",not yet queried
-51105,Lee,VA,,0,0,-2.36,22173,1128.0,19.66,49.3,0.0,111.5,"Knoxville, Tennessee",not yet queried
-21033,Caldwell,KY,,0,0,-1.81,12649,893.0,14.16,15.0,1.1,81.0,"Clarksville, Tennessee",not yet queried
-13305,Wayne,GA,,0,0,4.86,30144,1662.2,18.14,45.5,0.0,93.3,"Savannah, Georgia",not yet queried
-51117,Mecklenburg,VA,,0,0,-1.2,30319,1620.0,18.72,16.1,25.7,93.5,"Durham, North Carolina",not yet queried
-53007,Chelan,WA,,0,0,-5.61,79074,7564.1,10.45,55.7,0.0,140.9,"Bellevue, Washington",not yet queried
-48117,Deaf Smith,TX,,0,0,-4.34,18583,3876.9,4.79,43.7,0.9,67.4,"Amarillo, Texas",not yet queried
-48261,Kenedy,TX,,0,0,10.52,350,3777.1,0.09,82.0,0.0,86.1,"Corpus Christi, Texas",not yet queried
-48135,Ector,TX,,0,0,0.41,165171,2325.0,71.04,5.1,50.0,3.1,"Odessa, Texas",not yet queried
-48141,El Paso,TX,,0,0,0.15,865657,2622.9,330.04,1.5,89.3,7.3,"El Paso, Texas",not yet queried
-48155,Foard,TX,,0,0,-0.43,1095,1824.4,0.6,105.5,0.0,111.5,"Wichita Falls, Texas",not yet queried
-48161,Freestone,TX,,0,0,3.63,19435,2273.3,8.55,3.5,51.3,90.1,"Waco, Texas",not yet queried
-48165,Gaines,TX,,0,0,-1.21,21598,3891.1,5.55,100.7,0.0,100.1,"Midland, Texas",not yet queried
-51107,Loudoun,VA,2022,988,0,-3.11,420959,1335.3,315.25,22.3,0.0,43.6,"Washington, District of Columbia",not yet queried
-51131,Northampton,VA,,0,0,0.46,12282,548.1,22.41,53.2,0.0,54.9,"Hampton, Virginia",not yet queried
-51147,Prince Edward,VA,2025,9,0,-1.69,21849,906.4,24.11,62.8,0.0,92.1,"Richmond, Virginia",not yet queried
-51149,Prince George,VA,,0,0,-0.45,43010,686.7,62.63,2.1,39.9,38.0,"Richmond, Virginia",not yet queried
-51159,Richmond,VA,,0,0,-1.5,8923,496.0,17.99,54.9,0.0,77.6,"Richmond, Virginia",not yet queried
-51161,Roanoke,VA,2024,114,0,-2.4,96929,648.8,149.39,4.3,28.0,133.1,"Winston-Salem, North Carolina",not yet queried
-51165,Rockingham,VA,2022,199,0,-4.07,83757,2199.1,38.09,0.4,34.7,159.1,"Richmond, Virginia",not yet queried
-51175,Southampton,VA,,0,0,-0.6,17996,1551.8,11.6,34.8,0.0,66.9,"Newport News, Virginia",not yet queried
-51177,Spotsylvania,VA,2025,44,0,-2.88,140032,1039.9,134.66,5.4,22.6,77.9,"Alexandria, Virginia",not yet queried
-55061,Kewaunee,WI,,0,0,-9.93,20563,887.1,23.18,27.1,0.0,34.0,"Green Bay, Wisconsin",not yet queried
-56039,Teton,WY,,0,0,-13.69,23331,10348.0,2.25,103.6,0.0,312.8,"Billings, Montana",not yet queried
-53047,Okanogan,WA,,0,0,-7.22,42104,13644.0,3.09,146.8,0.0,184.5,"Spokane, Washington",not yet queried
-48129,Donley,TX,,0,0,-2.56,3258,2400.6,1.36,26.9,0.0,93.0,"Amarillo, Texas",not yet queried
-48167,Galveston,TX,,0,0,9.01,350682,979.9,357.86,2.8,30.7,29.9,"Pearland, Texas",not yet queried
-48221,Hood,TX,,0,0,2.35,61598,1089.5,56.54,33.6,0.0,53.9,"Fort Worth, Texas",not yet queried
-48225,Houston,TX,,0,0,4.19,22066,3188.0,6.92,50.1,0.0,111.3,"College Station, Texas",not yet queried
-48229,Hudspeth,TX,,0,0,-0.97,3202,11838.8,0.27,17.8,120.7,96.2,"El Paso, Texas",not yet queried
-48245,Jefferson,TX,,0,0,7.52,256526,2269.6,113.03,8.7,41.3,9.5,"Beaumont, Texas",not yet queried
-48257,Kaufman,TX,,0,0,3.04,145310,2022.0,71.86,3.4,43.1,24.9,"Mesquite, Texas",not yet queried
-51193,Westmoreland,VA,,0,0,-1.52,18477,594.1,31.1,56.5,0.0,74.1,"Alexandria, Virginia",not yet queried
-51199,York,VA,2022,1,0,0.26,70045,271.4,258.11,3.9,22.1,10.0,"Newport News, Virginia",not yet queried
-53031,Jefferson,WA,,0,0,-0.77,32977,4671.6,7.06,44.8,0.0,46.7,"Everett, Washington",not yet queried
-55031,Douglas,WI,,0,0,-14.57,44295,3377.7,13.11,17.1,0.0,203.9,"St. Paul, Minnesota",not yet queried
-55051,Iron,WI,,0,0,-14.55,6137,1963.7,3.13,149.9,0.0,264.4,"Green Bay, Wisconsin",not yet queried
-53049,Pacific,WA,,0,0,1.51,23365,2415.6,9.67,72.9,0.0,137.6,"Vancouver, Washington",not yet queried
-51570,Colonial Heights,VA,,0,0,-0.82,18170,19.5,932.91,0.6,4.5,31.1,"Richmond, Virginia",not yet queried
-51630,Fredericksburg,VA,2024,28,0,-2.65,27982,27.0,1034.86,2.9,2.4,68.1,"Alexandria, Virginia",not yet queried
-51650,Hampton,VA,2025,2,0,1.02,137148,133.2,1029.96,1.2,26.3,2.5,"Hampton, Virginia",not yet queried
-51700,Newport News,VA,2023,1,0,0.74,186247,178.0,1046.52,2.3,19.4,2.1,"Newport News, Virginia",not yet queried
-51735,Poquoson,VA,,0,0,0.9,12460,39.7,314.08,7.9,0.0,9.5,"Newport News, Virginia",not yet queried
-51770,Roanoke,VA,2023,116,0,-1.82,100011,110.2,907.25,1.9,8.6,134.4,"Winston-Salem, North Carolina",not yet queried
-55071,Manitowoc,WI,,0,0,-9.7,81359,1525.7,53.33,0.5,53.1,51.9,"Green Bay, Wisconsin",not yet queried
-55079,Milwaukee,WI,,0,0,-7.99,939489,625.2,1502.63,1.9,63.1,4.4,"Milwaukee, Wisconsin",not yet queried
-55089,Ozaukee,WI,,0,0,-8.71,91503,603.7,151.58,1.9,42.4,31.5,"Milwaukee, Wisconsin",not yet queried
-53055,San Juan,WA,,0,0,2.13,17788,450.4,39.49,40.5,0.0,87.8,"Everett, Washington",not yet queried
-53061,Snohomish,WA,,0,0,-0.94,827957,5406.0,153.15,1.6,70.9,5.8,"Everett, Washington",not yet queried
-53071,Walla Walla,WA,,0,0,-1.67,62584,3289.6,19.02,52.8,0.0,190.0,"Spokane, Washington",not yet queried
-53073,Whatcom,WA,,0,0,-2.61,226847,5456.7,41.57,3.6,45.3,95.4,"Everett, Washington",not yet queried
-22039,Evangeline,LA,,0,0,5.64,32350,1715.6,18.86,19.0,16.5,61.3,"Lafayette, Louisiana",not yet queried
-27139,Scott,MN,,0,0,-12.22,150928,923.3,163.47,13.5,6.5,33.3,"Minneapolis, Minnesota",not yet queried
-31113,Logan,NE,,0,0,-9.6,716,1478.0,0.48,46.4,0.0,327.0,"Lincoln, Nebraska",not yet queried
-37043,Clay,NC,,0,0,-2.04,11089,556.2,19.94,82.6,0.0,104.0,"Knoxville, Tennessee",not yet queried
-39057,Greene,OH,,0,0,-4.53,167966,1071.6,156.75,6.1,33.2,16.9,"Dayton, Ohio",not yet queried
-36009,Cattaraugus,NY,,0,0,-8.46,77042,3388.6,22.74,10.3,80.0,77.3,"Buffalo, New York",not yet queried
-47169,Trousdale,TN,,0,0,-0.91,11615,295.8,39.27,22.0,0.0,61.3,"Nashville, Tennessee",not yet queried
-46073,Jerauld,SD,,0,0,-11.91,1663,1362.9,1.22,42.8,0.0,157.1,"Sioux Falls, South Dakota",not yet queried
-48365,Panola,TX,,0,0,3.69,22491,2076.5,10.83,36.5,0.0,68.0,"Shreveport, Louisiana",not yet queried
-48207,Haskell,TX,,0,0,0.41,5416,2339.1,2.32,76.8,0.0,81.4,"Abilene, Texas",not yet queried
-51690,Martinsville,VA,2025,9,0,-1.89,13485,28.4,475.23,62.6,0.0,68.6,"Greensboro, North Carolina",not yet queried
-55131,Washington,WI,,0,0,-9.96,136761,1115.5,122.6,23.4,0.0,42.4,"Milwaukee, Wisconsin",not yet queried
-54067,Nicholas,WV,,0,0,-4.15,24604,1675.3,14.69,37.6,0.0,248.5,"Winston-Salem, North Carolina",not yet queried
-51087,Henrico,VA,2021,20,0,-1.31,334389,605.3,552.46,1.1,82.6,9.0,"Richmond, Virginia",not yet queried
-01043,Cullman,AL,,0,0,0.74,87866,1903.2,46.17,3.8,43.7,67.3,"Huntsville, Alabama",not yet queried
-01109,Pike,AL,,0,0,3.49,33009,1740.7,18.96,59.2,0.0,72.7,"Montgomery, Alabama",not yet queried
-09009,New Haven,CT,2022,496,0,-5.5,864835,1565.7,552.38,2.1,126.6,10.0,"New Haven, Connecticut",not yet queried
-05049,Fulton,AR,,0,0,-2.46,12075,1601.1,7.54,148.7,0.0,164.0,"Springfield, Missouri",not yet queried
-05127,Scott,AR,,0,0,-0.35,9836,2311.1,4.26,66.1,0.0,164.9,"Little Rock, Arkansas",not yet queried
-21117,Kenton,KY,2024,60,0,-3.45,169064,415.0,407.34,1.1,32.5,10.8,"Cincinnati, Ohio",not yet queried
-19123,Mahaska,IA,,0,0,-8.6,22190,1478.5,15.01,42.2,0.0,86.4,"Des Moines, Iowa",not yet queried
-47015,Cannon,TN,,0,0,-0.92,14506,688.0,21.08,24.2,0.0,29.7,"Murfreesboro, Tennessee",not yet queried
-38011,Bowman,ND,,0,0,-12.89,2993,3009.1,0.99,79.6,0.0,398.9,"Billings, Montana",not yet queried
-38083,Sheridan,ND,,0,0,-15.51,1265,2518.5,0.5,80.1,0.0,280.8,"Fargo, North Dakota",not yet queried
-48375,Potter,TX,,0,0,-3.77,118525,2352.7,50.38,3.4,50.9,0.8,"Amarillo, Texas",not yet queried
-31065,Furnas,NE,,0,0,-8.39,4636,1862.5,2.49,56.0,0.0,280.4,"Lincoln, Nebraska",not yet queried
-28135,Tallahatchie,MS,,0,0,2.18,12715,1671.3,7.61,27.8,0.0,130.9,"Memphis, Tennessee",not yet queried
-41019,Douglas,OR,,0,0,0.89,111201,13043.4,8.53,2.5,137.5,93.8,"Eugene, Oregon",not yet queried
-29013,Bates,MO,,0,0,-4.06,16042,2167.0,7.4,73.8,0.0,78.0,"Olathe, Kansas",not yet queried
-55001,Adams,WI,,0,0,-11.7,20654,1672.2,12.35,23.1,0.0,102.2,"Madison, Wisconsin",not yet queried
-53057,Skagit,WA,,0,0,-1.34,129523,4483.8,28.89,0.1,39.3,54.7,"Everett, Washington",not yet queried
-06085,Santa Clara,CA,,0,0,4.05,1936259,3341.3,579.48,0.9,50.5,3.3,"San Jose, California",not yet queried
-13017,Ben Hill,GA,,0,0,4.51,17194,647.8,26.54,33.1,0.0,173.8,"Tallahassee, Florida",not yet queried
-18047,Franklin,IN,2026,2,0,-4.7,22785,995.7,22.88,12.3,6.6,58.1,"Cincinnati, Ohio",not yet queried
-22123,West Carroll,LA,,0,0,3.27,9751,931.5,10.47,43.1,0.0,130.1,"Jackson, Mississippi",not yet queried
-26067,Ionia,MI,,0,0,-7.59,66804,1479.7,45.15,8.3,39.8,47.2,"Grand Rapids, Michigan",not yet queried
-37185,Warren,NC,,0,0,-0.77,18642,1109.7,16.8,13.1,15.9,82.6,"Durham, North Carolina",not yet queried
-45015,Berkeley,SC,,0,0,3.53,229861,2846.0,80.77,8.6,28.8,23.5,"North Charleston, South Carolina",not yet queried
-13045,Carroll,GA,,0,0,0.96,119148,1292.6,92.18,9.0,27.0,62.0,"Atlanta, Georgia",not yet queried
-37093,Hoke,NC,,0,0,0.99,52082,1012.0,51.46,21.8,0.0,27.2,"Fayetteville, North Carolina",not yet queried
-20149,Pottawatomie,KS,,0,0,-6.6,25348,2178.2,11.64,20.5,0.0,59.3,"Topeka, Kansas",not yet queried
-28033,DeSoto,MS,,0,0,1.32,185314,1233.2,150.27,3.8,28.4,26.4,"Memphis, Tennessee",not yet queried
-42001,Adams,PA,2021,189,0,-4.58,103852,1343.3,77.31,34.9,0.0,78.1,"Baltimore, Maryland",not yet queried
-37161,Rutherford,NC,,0,0,-0.48,64444,1461.1,44.11,29.5,0.0,96.1,"Charlotte, North Carolina",not yet queried
-21051,Clay,KY,,0,0,-2.53,20345,1215.3,16.74,31.5,0.0,117.8,"Lexington-Fayette, Kentucky",not yet queried
-13245,Richmond,GA,,0,0,2.94,206607,840.0,245.96,0.7,31.7,6.4,"Augusta-Richmond County, Georgia",not yet queried
-13251,Screven,GA,,0,0,3.36,14067,1670.8,8.42,50.8,0.0,86.8,"Savannah, Georgia",not yet queried
-13261,Sumter,GA,,0,0,3.56,29616,1250.2,23.69,43.6,0.0,84.4,"Columbus, Georgia",not yet queried
-13263,Talbot,GA,,0,0,2.39,5733,1013.7,5.66,36.9,0.0,46.3,"Columbus, Georgia",not yet queried
-13273,Terrell,GA,,0,0,3.95,9185,868.8,10.57,66.5,0.0,93.0,"Columbus, Georgia",not yet queried
-20193,Thomas,KS,,0,0,-7.78,7930,2783.4,2.85,2.1,63.6,324.3,"Aurora, Colorado",not yet queried
-20199,Wallace,KS,,0,0,-7.28,1512,2366.3,0.64,49.7,0.0,255.7,"Pueblo, Colorado",not yet queried
-20201,Washington,KS,,0,0,-7.06,5530,2317.4,2.39,85.0,0.0,121.2,"Lincoln, Nebraska",not yet queried
-21195,Pike,KY,,0,0,-2.29,58669,2037.9,28.79,93.4,0.0,192.4,"Lexington-Fayette, Kentucky",not yet queried
-21211,Shelby,KY,,0,0,-3.26,48065,983.3,48.88,3.2,34.8,45.8,"Louisville, Kentucky",not yet queried
-21213,Simpson,KY,,0,0,-1.3,19594,606.6,32.3,5.1,22.3,66.5,"Nashville, Tennessee",not yet queried
-21223,Trimble,KY,,0,0,-3.31,8474,392.8,21.58,13.3,2.4,55.2,"Louisville, Kentucky",not yet queried
-21225,Union,KY,,0,0,-2.3,13668,888.0,15.39,45.6,0.0,47.5,"Evansville, Indiana",not yet queried
-20037,Crawford,KS,,0,0,-3.13,38972,1527.5,25.51,49.2,0.0,128.7,"Springfield, Missouri",not yet queried
-20043,Doniphan,KS,,0,0,-6.26,7510,1018.9,7.37,17.2,0.0,84.4,"Kansas City, Kansas",not yet queried
-20061,Geary,KS,,0,0,-5.95,36739,996.2,36.88,2.5,42.1,98.6,"Topeka, Kansas",not yet queried
-20067,Grant,KS,,0,0,-6.51,7352,1488.7,4.94,178.2,0.0,267.6,"Amarillo, Texas",not yet queried
-20071,Greeley,KS,,0,0,-7.47,1284,2016.2,0.64,94.8,0.0,248.1,"Pueblo, Colorado",not yet queried
-20083,Hodgeman,KS,,0,0,-6.33,1723,2227.4,0.77,99.1,0.0,224.3,"Wichita, Kansas",not yet queried
-20089,Jewell,KS,,0,0,-7.58,2932,2356.3,1.24,102.1,0.0,173.4,"Lincoln, Nebraska",not yet queried
-22019,Calcasieu,LA,,0,0,6.72,216785,2754.9,78.69,1.5,88.2,85.1,"Beaumont, Texas",not yet queried
-22027,Claiborne,LA,,0,0,2.33,14170,1955.1,7.25,29.4,0.0,74.8,"Shreveport, Louisiana",not yet queried
-22029,Concordia,LA,,0,0,4.42,18687,1805.0,10.35,90.5,0.0,131.9,"Baton Rouge, Louisiana",not yet queried
-22037,East Feliciana,LA,,0,0,5.07,19539,1174.3,16.64,42.3,0.0,40.5,"Baton Rouge, Louisiana",not yet queried
-53009,Clallam,WA,,0,0,0.59,77155,4502.3,17.14,86.9,0.0,93.7,"Everett, Washington",not yet queried
-53027,Grays Harbor,WA,,0,0,1.25,75636,4926.2,15.35,62.2,0.0,105.0,"Tacoma, Washington",not yet queried
-55105,Rock,WI,,0,0,-9.15,163687,1860.0,88.0,4.7,57.5,43.1,"Rockford, Illinois",not yet queried
-55117,Sheboygan,WI,,0,0,-9.45,118034,1324.2,89.14,0.5,39.8,77.9,"Milwaukee, Wisconsin",not yet queried
-55127,Walworth,WI,,0,0,-8.99,106478,1437.8,74.06,0.8,48.6,63.0,"Rockford, Illinois",not yet queried
-55009,Brown,WI,,0,0,-10.17,268740,1371.9,195.88,0.0,26.4,2.7,"Green Bay, Wisconsin",not yet queried
-49047,Uintah,UT,,0,0,-10.46,35620,11602.4,3.07,119.0,0.0,175.5,"Provo, Utah",not yet queried
-49053,Washington,UT,,0,0,-2.04,180279,6284.2,28.69,0.1,66.3,175.5,"North Las Vegas, Nevada",not yet queried
-50001,Addison,VT,,0,0,-10.91,37363,1984.8,18.82,34.7,0.0,181.9,"Manchester, New Hampshire",not yet queried
-50009,Essex,VT,,0,0,-13.47,5920,1718.7,3.44,25.5,0.0,187.5,"Manchester, New Hampshire",not yet queried
-50017,Orange,VT,,0,0,-11.99,29277,1779.4,16.45,18.2,75.1,134.8,"Manchester, New Hampshire",not yet queried
-50023,Washington,VT,,0,0,-12.28,59807,1779.9,33.6,0.1,36.5,166.3,"Manchester, New Hampshire",not yet queried
-22003,Allen,LA,,0,0,5.59,22750,1973.2,11.53,46.9,0.0,88.0,"Lafayette, Louisiana",not yet queried
-22009,Avoyelles,LA,,0,0,5.1,39693,2156.0,18.41,23.1,6.8,92.7,"Lafayette, Louisiana",not yet queried
-22101,St. Mary,LA,,0,0,8.07,49406,1438.4,34.35,63.7,0.0,82.2,"Baton Rouge, Louisiana",not yet queried
-22107,Tensas,LA,,0,0,3.98,4147,1561.2,2.66,46.9,0.0,111.2,"Jackson, Mississippi",not yet queried
-22109,Terrebonne,LA,,0,0,8.85,109580,3190.4,34.35,44.9,0.0,74.5,"New Orleans, Louisiana",not yet queried
-21021,Boyle,KY,,0,0,-2.73,30614,466.6,65.61,42.4,0.0,51.9,"Lexington-Fayette, Kentucky",not yet queried
-21023,Bracken,KY,,0,0,-3.56,8400,532.5,15.77,44.0,0.0,58.8,"Cincinnati, Ohio",not yet queried
-22045,Iberia,LA,,0,0,7.54,69929,1486.9,47.03,34.8,0.0,32.6,"Lafayette, Louisiana",not yet queried
-21047,Christian,KY,,0,0,-1.55,72748,1858.3,39.15,7.6,37.3,33.0,"Clarksville, Tennessee",not yet queried
-21055,Crittenden,KY,,0,0,-2.03,8990,932.3,9.64,27.5,0.0,85.0,"Evansville, Indiana",not yet queried
-21059,Daviess,KY,,0,0,-2.35,103312,1187.1,87.03,38.8,0.0,48.5,"Evansville, Indiana",not yet queried
-21073,Franklin,KY,,0,0,-2.97,51541,538.1,95.79,3.8,22.0,36.0,"Lexington-Fayette, Kentucky",not yet queried
-21075,Fulton,KY,,0,0,-0.99,6515,532.3,12.24,46.6,0.0,148.8,"Clarksville, Tennessee",not yet queried
-21089,Greenup,KY,,0,0,-3.48,35962,892.0,40.32,21.0,0.0,157.7,"Lexington-Fayette, Kentucky",not yet queried
-21095,Harlan,KY,,0,0,-2.95,26831,1206.5,22.24,67.3,0.0,118.4,"Knoxville, Tennessee",not yet queried
-55137,Waushara,WI,,0,0,-11.4,24520,1621.7,15.12,23.9,30.3,106.6,"Green Bay, Wisconsin",not yet queried
-56001,Albany,WY,,0,0,-10.72,37066,11069.2,3.35,1.3,87.9,92.1,"Fort Collins, Colorado",not yet queried
-56007,Carbon,WY,,0,0,-10.64,14537,20454.6,0.71,12.4,132.0,205.1,"Fort Collins, Colorado",not yet queried
-56011,Crook,WY,,0,0,-11.18,7181,7392.9,0.97,12.5,94.1,340.0,"Billings, Montana",not yet queried
-56013,Fremont,WY,,0,0,-12.07,39234,23786.0,1.65,148.5,0.0,309.0,"Billings, Montana",not yet queried
-56021,Laramie,WY,,0,0,-8.83,100512,6956.5,14.45,4.2,181.2,68.8,"Fort Collins, Colorado",not yet queried
-54031,Hardy,WV,2022,13,0,-5.1,14299,1508.2,9.48,34.8,0.0,159.0,"Washington, District of Columbia",not yet queried
-54035,Jackson,WV,2024,1,0,-3.42,27791,1202.7,23.11,2.3,58.8,166.8,"Columbus, Ohio",not yet queried
-54041,Lewis,WV,,0,0,-3.76,17033,996.9,17.09,2.2,33.7,162.6,"Pittsburgh, Pennsylvania",not yet queried
-50027,Windsor,VT,2021,2,0,-11.19,57753,2510.6,23.0,6.0,84.1,103.9,"Manchester, New Hampshire",not yet queried
-51001,Accomack,VA,,0,0,-0.18,33413,1164.2,28.7,104.0,0.0,105.7,"Hampton, Virginia",not yet queried
-51021,Bland,VA,,0,0,-3.79,6270,926.5,6.77,3.7,32.9,139.4,"Winston-Salem, North Carolina",not yet queried
-51027,Buchanan,VA,,0,0,-2.84,20355,1302.2,15.63,59.2,0.0,207.0,"Winston-Salem, North Carolina",not yet queried
-51037,Charlotte,VA,2025,1,0,-1.71,11529,1230.9,9.37,56.1,0.0,117.6,"Durham, North Carolina",not yet queried
-51041,Chesterfield,VA,2025,5,0,-1.27,364548,1096.3,332.52,11.1,27.6,17.3,"Richmond, Virginia",not yet queried
+40129,Roger Mills,OK,,0,1848,-3.27,3442,2955.5,1.16,30.6,0.0,193.4,"Oklahoma City, Oklahoma",
+24045,Wicomico,MD,2025,17,9022,-1.58,103588,969.8,106.81,109.4,0.0,134.4,"Alexandria, Virginia",
+25025,Suffolk,MA,2024,69,32901,-5.23,797936,150.6,5297.74,1.3,32.2,3.1,"Boston, Massachusetts",
+26001,Alcona,MI,,0,1230,-9.82,10167,1747.2,5.82,76.8,0.0,233.0,"Lansing, Michigan",
+41015,Curry,OR,,0,6547,2.86,23446,4215.1,5.56,83.3,0.0,224.7,"Eugene, Oregon",
+41025,Harney,OR,,0,19327,-6.18,7495,26244.8,0.29,163.8,0.0,223.2,"Boise City, Idaho",
+26089,Leelanau,MI,,0,6711,-7.82,22301,899.2,24.8,80.9,0.0,186.1,"Green Bay, Wisconsin",
+26105,Mason,MI,,0,3886,-7.74,29052,1282.2,22.66,83.7,0.0,125.4,"Grand Rapids, Michigan",
+28147,Walthall,MS,,0,430,4.42,13884,1046.2,13.27,33.8,0.0,123.9,"Baton Rouge, Louisiana",
+42107,Schuylkill,PA,2015,549,11383,-6.13,143049,2016.7,70.93,7.3,67.1,60.3,"Allentown, Pennsylvania",
+42127,Wayne,PA,2023,1,3150,-8.08,51155,1879.3,27.22,20.8,13.7,105.4,"Allentown, Pennsylvania",
+42129,Westmoreland,PA,2015,244,23879,-5.28,354663,2661.4,133.26,7.8,90.4,35.6,"Pittsburgh, Pennsylvania",
+49015,Emery,UT,,0,18069,-7.23,9825,11557.3,0.85,39.5,118.8,129.6,"Provo, Utah",
+49021,Iron,UT,,0,5136,-6.81,57289,8538.4,6.71,0.2,95.9,247.1,"North Las Vegas, Nevada",
+49025,Kane,UT,,0,65456,-4.99,7667,10334.7,0.74,76.4,0.0,254.4,"Henderson, Nevada",
+47029,Cocke,TN,,0,8943,-1.09,35999,1125.5,31.98,2.6,31.8,66.8,"Knoxville, Tennessee",
+23027,Waldo,ME,,0,7988,-10.29,39607,1890.5,20.95,32.3,2.0,252.8,"Manchester, New Hampshire",
+31157,Scotts Bluff,NE,,0,4948,-8.98,36084,1915.0,18.84,72.2,0.0,184.8,"Fort Collins, Colorado",
+31165,Sioux,NE,,0,6468,-10.15,1135,5352.8,0.21,97.8,0.0,228.9,"Fort Collins, Colorado",
+31175,Valley,NE,,0,183,-9.53,4059,1471.2,2.76,93.8,0.0,206.1,"Lincoln, Nebraska",
+31177,Washington,NE,,0,1920,-8.64,20865,1010.0,20.66,19.5,0.0,31.2,"Omaha, Nebraska",
+32001,Churchill,NV,,0,3942,-5.58,25516,12769.8,2.0,36.7,53.9,86.9,"Reno, Nevada",
+32003,Clark,NV,,0,63571,2.63,2265461,20438.7,110.84,1.7,254.9,3.4,"Las Vegas, Nevada",
+26011,Arenac,MI,,0,1031,-8.51,15002,940.7,15.95,12.7,31.4,156.1,"Lansing, Michigan",
+30067,Park,MT,,0,4176,-10.61,17191,7259.9,2.37,4.3,52.1,164.6,"Billings, Montana",
+30073,Pondera,MT,,0,447,-11.05,5898,4203.2,1.4,17.2,47.8,387.6,"Billings, Montana",
+30079,Prairie,MT,,0,1489,-12.68,1088,4498.1,0.24,2.0,44.0,273.8,"Billings, Montana",
+30081,Ravalli,MT,,0,8492,-8.8,44174,6192.2,7.13,53.8,0.0,291.2,"Spokane, Washington",
+30089,Sanders,MT,,0,3253,-6.71,12400,7149.7,1.73,31.6,8.6,170.3,"Spokane, Washington",
+30095,Stillwater,MT,,0,1693,-9.32,8963,4649.9,1.93,2.2,58.1,60.4,"Billings, Montana",
+26109,Menominee,MI,,0,1422,-12.0,23502,2704.2,8.69,100.5,0.0,97.9,"Green Bay, Wisconsin",
+28149,Warren,MS,,0,6490,3.84,44722,1524.2,29.34,1.1,22.0,61.8,"Jackson, Mississippi",
+28161,Yalobusha,MS,,0,825,1.42,12481,1209.9,10.32,17.9,30.4,123.7,"Memphis, Tennessee",
+29005,Atchison,MO,,0,306,-7.49,5305,1417.5,3.74,9.8,40.5,104.3,"Omaha, Nebraska",
+29011,Barton,MO,,0,2109,-2.99,11637,1533.1,7.59,46.5,0.0,94.5,"Springfield, Missouri",
+29019,Boone,MO,,0,23333,-4.76,183610,1775.2,103.43,1.0,34.8,1.2,"Columbia, Missouri",
+29025,Caldwell,MO,,0,427,-6.17,8815,1104.4,7.98,20.5,0.0,73.4,"Independence, Missouri",
+39085,Lake,OH,2024,24,29010,-5.21,232603,589.2,394.77,4.2,47.3,37.3,"Cleveland, Ohio",
+39095,Lucas,OH,2022,454,62673,-5.39,431279,882.8,488.53,3.5,59.8,5.5,"Toledo, Ohio",
+44009,Washington,RI,2024,11,22968,-4.46,129839,852.7,152.27,9.8,21.6,42.5,"Providence, Rhode Island",
+45011,Barnwell,SC,,0,4032,2.6,20589,1420.3,14.5,50.2,0.0,63.6,"Augusta-Richmond County, Georgia",
+45013,Beaufort,SC,,0,8863,5.42,187117,1492.6,125.37,22.9,0.0,39.3,"Savannah, Georgia",
+32015,Lander,NV,,0,3360,-6.46,5734,14219.3,0.4,13.2,42.5,265.5,"Reno, Nevada",
+32019,Lyon,NV,,0,2939,-5.23,59235,5183.1,11.43,27.5,17.4,45.8,"Reno, Nevada",
+32029,Storey,NV,,0,572,-3.81,4104,681.0,6.03,14.3,7.9,22.6,"Reno, Nevada",
+39111,Monroe,OH,,0,1873,-4.63,13385,1180.3,11.34,34.8,0.0,119.5,"Pittsburgh, Pennsylvania",
+39113,Montgomery,OH,,0,34204,-4.58,537309,1195.4,449.47,0.3,89.0,2.1,"Dayton, Ohio",
+39123,Ottawa,OH,2024,20,8449,-5.04,40364,660.2,61.14,14.8,12.3,41.9,"Toledo, Ohio",
+39145,Scioto,OH,2026,1,13147,-3.61,74008,1580.4,46.83,46.9,0.0,132.4,"Columbus, Ohio",
+39155,Trumbull,OH,2022,10,7544,-6.33,201977,1601.4,126.13,10.6,36.0,65.7,"Akron, Ohio",
+30103,Treasure,MT,,0,260,-10.75,762,2531.5,0.3,0.9,42.4,110.0,"Billings, Montana",
+30105,Valley,MT,,0,4520,-14.72,7578,12757.8,0.59,183.1,0.0,309.9,"Billings, Montana",
+38077,Richland,ND,,0,3320,-15.05,16529,3718.7,4.44,5.4,77.1,67.8,"Fargo, North Dakota",
+38085,Sioux,ND,,0,462,-14.13,3898,2833.7,1.38,73.0,0.0,313.1,"Fargo, North Dakota",
+38099,Walsh,ND,,0,737,-17.24,10563,3320.2,3.18,27.1,38.7,177.1,"Fargo, North Dakota",
+38105,Williams,ND,,0,2274,-15.43,40950,5380.4,7.61,137.4,0.0,461.1,"Billings, Montana",
+29031,Cape Girardeau,MO,,0,1854,-2.58,81710,1498.4,54.53,0.4,44.4,151.5,"St. Louis, Missouri",
+29037,Cass,MO,,0,1596,-4.74,107824,1804.8,59.74,21.0,0.0,33.5,"Overland Park, Kansas",
+36047,Kings,NY,2020,2607,54194,-1.82,2736074,183.4,14917.58,3.8,27.2,8.1,"New York, New York",
+36053,Madison,NY,,0,3371,-9.03,68016,1696.0,40.1,10.7,29.1,35.3,"Syracuse, New York",
+36061,New York,NY,2020,4275,61518,-2.04,1694251,59.1,28654.5,3.4,16.8,7.8,"New York, New York",
+36067,Onondaga,NY,2023,14,22020,-7.9,476516,2016.0,236.36,0.3,131.2,2.7,"Syracuse, New York",
+41045,Malheur,OR,,0,5364,-5.63,31571,25608.6,1.23,10.0,41.3,78.7,"Boise City, Idaho",
+41055,Sherman,OR,,0,1104,-2.44,1870,2133.4,0.88,18.6,23.8,133.5,"Gresham, Oregon",
+41057,Tillamook,OR,,0,7059,1.77,27390,2855.7,9.59,83.4,0.0,87.2,"Salem, Oregon",
+41063,Wallowa,OR,,0,7668,-6.25,7391,8148.6,0.91,59.1,0.0,220.9,"Boise City, Idaho",
+41067,Washington,OR,,0,18601,1.22,600372,1875.7,320.07,10.9,13.7,15.7,"Portland, Oregon",
+29101,Johnson,MO,,0,2966,-4.76,54013,2147.8,25.15,26.8,0.0,66.8,"Independence, Missouri",
+29107,Lafayette,MO,,0,358,-5.08,32984,1627.6,20.26,5.5,53.4,49.3,"Independence, Missouri",
+29113,Lincoln,MO,,0,3454,-4.82,59574,1622.8,36.71,19.3,0.0,75.3,"St. Louis, Missouri",
+29123,Madison,MO,,0,667,-3.91,12626,1280.5,9.86,40.0,0.0,122.2,"St. Louis, Missouri",
+29127,Marion,MO,,0,1074,-5.8,28525,1131.6,25.21,6.3,2.6,115.9,"Columbia, Missouri",
+39163,Vinton,OH,,0,9412,-4.09,12800,1068.0,11.98,76.0,0.0,91.0,"Columbus, Ohio",
+47073,Hawkins,TN,,0,1919,-1.45,56721,1261.3,44.97,15.5,0.0,108.9,"Knoxville, Tennessee",
+47079,Henry,TN,,0,761,-0.99,32199,1455.8,22.12,55.5,0.0,86.1,"Clarksville, Tennessee",
+47089,Jefferson,TN,,0,1417,-0.86,54683,709.9,77.03,3.1,46.1,43.4,"Knoxville, Tennessee",
+47091,Johnson,TN,,0,797,-3.44,17948,773.0,23.22,30.0,0.0,147.8,"Winston-Salem, North Carolina",
+47097,Lauderdale,TN,,0,554,0.37,25143,1222.5,20.57,34.8,0.0,82.9,"Memphis, Tennessee",
+47103,Lincoln,TN,,0,2504,-0.36,35319,1477.2,23.91,28.0,0.0,42.0,"Huntsville, Alabama",
+47115,Marion,TN,,0,6034,-0.31,28837,1290.2,22.35,5.5,47.1,28.0,"Chattanooga, Tennessee",
+47121,Meigs,TN,,0,293,-0.33,12758,505.4,25.25,13.1,0.0,67.8,"Chattanooga, Tennessee",
+47123,Monroe,TN,,0,4662,-0.71,46250,1646.1,28.1,16.7,7.7,62.9,"Knoxville, Tennessee",
+47131,Obion,TN,,0,1435,-0.83,30787,1410.8,21.82,41.0,0.0,153.5,"Clarksville, Tennessee",
+39007,Ashtabula,OH,2025,1,39948,-6.12,97574,1818.0,53.67,2.5,46.5,67.8,"Erie, Pennsylvania",
+48371,Pecos,TX,,0,3935,1.31,15193,12338.3,1.23,0.8,161.6,113.2,"Odessa, Texas",
+48377,Presidio,TX,,0,8338,1.52,6131,9985.0,0.61,135.4,0.0,286.4,"Odessa, Texas",
+48391,Refugio,TX,,0,3592,8.65,6741,1995.4,3.38,54.0,0.0,56.1,"Corpus Christi, Texas",
+48401,Rusk,TX,,0,4907,3.68,52214,2393.2,21.82,26.6,0.0,50.2,"Tyler, Texas",
+48407,San Jacinto,TX,,0,4609,5.78,27402,1474.3,18.59,35.4,0.0,90.4,"Houston, Texas",
+48409,San Patricio,TX,,0,13117,9.33,68755,1796.0,38.28,13.7,38.3,15.7,"Corpus Christi, Texas",
+36079,Putnam,NY,2022,105,8986,-6.2,97668,596.5,163.73,7.5,24.3,42.7,"Stamford, Connecticut",
+48443,Terrell,TX,,0,9626,2.1,760,6107.3,0.12,78.3,0.0,187.5,"Odessa, Texas",
+48461,Upton,TX,,0,296,1.57,3308,3215.0,1.03,32.3,0.0,77.5,"Odessa, Texas",
+48465,Val Verde,TX,,0,25885,3.67,47586,8144.9,5.84,132.9,0.0,233.5,"San Antonio, Texas",
+48473,Waller,TX,,0,4087,6.34,56794,1329.8,42.71,24.5,16.8,62.2,"Houston, Texas",
+48479,Webb,TX,,0,3469,8.08,267114,8706.2,30.68,27.1,31.7,1.0,"Laredo, Texas",
+48487,Wilbarger,TX,,0,978,-0.4,12887,2514.5,5.13,68.4,0.0,78.1,"Wichita Falls, Texas",
+48495,Winkler,TX,,0,1347,-0.16,7791,2178.5,3.58,33.5,0.0,68.9,"Odessa, Texas",
+48501,Yoakum,TX,,0,475,-2.03,7694,2071.2,3.71,114.5,0.0,109.7,"Lubbock, Texas",
+48505,Zapata,TX,,0,3610,9.33,13889,2585.9,5.37,96.8,0.0,72.3,"Laredo, Texas",
+49003,Box Elder,UT,,0,11359,-7.47,57666,14880.9,3.88,3.0,144.6,94.7,"Salt Lake City, Utah",
+48005,Angelina,TX,,0,7857,4.32,86395,2066.2,41.81,104.9,0.0,128.1,"Tyler, Texas",
+48007,Aransas,TX,,0,9801,9.65,23830,652.9,36.5,39.3,0.0,40.9,"Corpus Christi, Texas",
+48037,Bowie,TX,,0,2179,2.1,92893,2292.2,40.53,3.1,66.6,110.0,"Shreveport, Louisiana",
+48043,Brewster,TX,,0,51544,1.8,9546,16015.8,0.6,84.0,0.0,216.3,"Odessa, Texas",
+29183,St. Charles,MO,,0,12028,-4.04,405262,1451.5,279.2,2.1,42.0,44.1,"St. Louis, Missouri",
+29189,St. Louis,MO,,0,64356,-3.53,1004125,1315.2,763.48,3.3,160.7,16.5,"St. Louis, Missouri",
+29199,Scotland,MO,,0,51,-7.19,4716,1131.0,4.17,86.8,0.0,168.4,"Columbia, Missouri",
+24005,Baltimore,MD,2021,814,74122,-3.37,854535,1549.6,551.46,2.8,157.5,8.8,"Baltimore, Maryland",
+24025,Harford,MD,2020,333,20031,-3.2,260924,1132.1,230.49,5.8,29.5,36.5,"Baltimore, Maryland",
+26013,Baraga,MI,,0,2215,-13.47,8158,2326.5,3.51,229.1,0.0,251.9,"Green Bay, Wisconsin",
+26029,Charlevoix,MI,,0,4238,-9.04,26054,1078.3,24.16,36.5,0.0,243.2,"Green Bay, Wisconsin",
+30111,Yellowstone,MT,,0,8844,-9.21,164731,6820.2,24.15,2.9,148.6,3.6,"Billings, Montana",
+31015,Boyd,NE,,0,200,-10.04,1810,1398.4,1.29,91.0,0.0,178.3,"Sioux Falls, South Dakota",
+31021,Burt,NE,,0,755,-9.33,6722,1273.2,5.28,20.6,0.0,72.4,"Omaha, Nebraska",
+26121,Muskegon,MI,,0,3887,-6.92,175824,1293.0,135.98,1.9,13.8,54.2,"Grand Rapids, Michigan",
+26127,Oceana,MI,,0,7261,-7.57,26659,1326.3,20.1,45.5,0.0,90.7,"Grand Rapids, Michigan",
+26139,Ottawa,MI,,0,7689,-6.48,296200,1459.4,202.96,11.4,65.8,28.8,"Grand Rapids, Michigan",
+26141,Presque Isle,MI,,0,2270,-9.92,12982,1706.1,7.61,56.7,0.0,297.7,"Lansing, Michigan",
+26151,Sanilac,MI,,0,1189,-7.46,40611,2493.0,16.29,42.8,0.0,89.9,"Sterling Heights, Michigan",
+26153,Schoolcraft,MI,,0,7828,-11.08,8047,3033.8,2.65,113.8,0.0,217.1,"Green Bay, Wisconsin",
+45019,Charleston,SC,,0,42137,4.74,408235,2372.7,172.06,1.5,54.4,3.2,"North Charleston, South Carolina",
+46071,Jackson,SD,,0,24125,-10.1,2806,4827.5,0.58,21.9,78.8,396.8,"Sioux Falls, South Dakota",
+46081,Lawrence,SD,,0,5379,-10.53,25768,2072.1,12.44,2.5,42.6,397.5,"Billings, Montana",
+46083,Lincoln,SD,,0,2044,-11.43,65161,1495.1,43.58,4.2,46.6,11.6,"Sioux Falls, South Dakota",
+46089,McPherson,SD,,0,81,-14.47,2411,2943.9,0.82,123.6,0.0,225.9,"Fargo, North Dakota",
+46099,Minnehaha,SD,,0,5260,-12.14,197214,2090.5,94.34,3.6,111.5,1.5,"Sioux Falls, South Dakota",
+46105,Perkins,SD,,0,250,-12.78,2835,7434.5,0.38,127.0,0.0,447.0,"Fargo, North Dakota",
+46109,Roberts,SD,,0,718,-14.42,10280,2851.7,3.6,2.3,75.2,141.0,"Fargo, North Dakota",
+33001,Belknap,NH,,0,6524,-9.83,63705,1036.6,61.46,11.7,27.7,58.4,"Manchester, New Hampshire",
+33007,Coos,NH,2025,1,25753,-13.65,31268,4648.2,6.73,41.9,0.0,173.0,"Manchester, New Hampshire",
+33011,Hillsborough,NH,2025,1,29652,-8.73,422937,2269.2,186.38,13.5,14.5,14.4,"Manchester, New Hampshire",
+33013,Merrimack,NH,,0,22776,-9.77,153808,2419.4,63.57,4.0,114.4,29.7,"Manchester, New Hampshire",
+34001,Atlantic,NJ,2020,211,22179,-2.63,274534,1439.3,190.75,62.2,0.0,76.7,"Philadelphia, Pennsylvania",
+34005,Burlington,NJ,2019,269,33714,-2.94,461860,2068.3,223.3,2.6,41.7,28.0,"Philadelphia, Pennsylvania",
+34011,Cumberland,NJ,2021,48,25424,-2.5,154152,1252.8,123.05,38.4,0.0,58.7,"Philadelphia, Pennsylvania",
+31031,Cherry,NE,,0,4459,-9.82,5455,15437.4,0.35,122.2,0.0,335.8,"Sioux Falls, South Dakota",
+31043,Dakota,NE,,0,270,-10.28,21582,684.4,31.53,0.3,4.5,124.9,"Sioux Falls, South Dakota",
+31049,Deuel,NE,,0,391,-8.72,1838,1139.2,1.61,4.6,54.0,236.7,"Fort Collins, Colorado",
+31055,Douglas,NE,,0,25010,-8.36,584526,850.7,687.12,0.4,39.8,6.1,"Omaha, Nebraska",
+31061,Franklin,NE,,0,124,-8.23,2889,1491.4,1.94,54.9,0.0,203.7,"Lincoln, Nebraska",
+31067,Gage,NE,,0,999,-7.74,21704,2205.4,9.84,60.0,0.0,61.1,"Lincoln, Nebraska",
+39035,Cuyahoga,OH,2022,1112,54789,-4.96,1264817,1184.1,1068.15,1.9,172.5,5.9,"Cleveland, Ohio",
+39051,Fulton,OH,2024,2,2353,-6.28,42713,1050.1,40.68,1.9,42.2,45.7,"Toledo, Ohio",
+39053,Gallia,OH,2025,1,2002,-3.44,29220,1208.3,24.18,44.6,0.0,140.8,"Columbus, Ohio",
+29063,DeKalb,MO,,0,613,-6.58,11029,1091.3,10.11,13.3,5.1,82.5,"Independence, Missouri",
+29069,Dunklin,MO,,0,143,-0.42,28283,1401.4,20.18,30.7,0.0,131.6,"Memphis, Tennessee",
+29081,Harrison,MO,,0,295,-7.34,8157,1871.3,4.36,0.7,51.0,141.7,"Independence, Missouri",
+29089,Howard,MO,,0,547,-4.97,10151,1201.4,8.45,23.4,0.0,38.2,"Columbia, Missouri",
+29091,Howell,MO,,0,733,-3.2,39750,2401.6,16.55,110.9,0.0,133.5,"Springfield, Missouri",
+37015,Bertie,NC,,0,442,0.57,17934,1811.1,9.9,70.7,0.0,97.5,"Chesapeake, Virginia",
+37023,Burke,NC,,0,3682,-1.26,87570,1313.4,66.68,0.4,41.7,91.3,"Charlotte, North Carolina",
+37029,Camden,NC,,0,914,0.85,10355,623.0,16.62,43.6,0.0,45.4,"Chesapeake, Virginia",
+37031,Carteret,NC,,0,9315,3.25,67686,1311.2,51.62,99.6,0.0,117.9,"Wilmington, North Carolina",
+29133,Mississippi,MO,,0,436,-1.26,12577,1066.0,11.8,5.2,27.8,181.6,"Clarksville, Tennessee",
+29143,New Madrid,MO,,0,320,-0.87,16434,1747.8,9.4,7.5,56.5,167.7,"Memphis, Tennessee",
+29149,Oregon,MO,,0,714,-3.01,8635,2045.6,4.22,147.2,0.0,173.8,"Springfield, Missouri",
+29155,Pemiscot,MO,,0,104,-0.2,15661,1275.7,12.28,0.8,65.6,118.6,"Memphis, Tennessee",
+29165,Platte,MO,,0,2695,-5.36,106718,1088.3,98.06,1.0,84.4,17.1,"Kansas City, Kansas",
+37101,Johnston,NC,,0,6116,0.68,215999,2049.5,105.39,11.2,94.1,30.6,"Raleigh, North Carolina",
+37107,Lenoir,NC,,0,407,1.32,55122,1037.5,53.13,51.9,0.0,107.4,"Raleigh, North Carolina",
+37113,Macon,NC,,0,18865,-2.44,37014,1335.3,27.72,59.2,0.0,102.4,"Knoxville, Tennessee",
+37119,Mecklenburg,NC,2025,6,31564,0.25,1115482,1356.7,822.17,3.7,167.8,2.1,"Charlotte, North Carolina",
+37125,Moore,NC,,0,7429,0.64,99727,1807.4,55.18,44.5,0.0,54.7,"Fayetteville, North Carolina",
+40001,Adair,OK,,0,1691,-1.62,19495,1485.3,13.13,40.5,0.0,105.6,"Broken Arrow, Oklahoma",
+40007,Beaver,OK,,0,722,-4.89,5049,4700.0,1.07,179.5,0.0,209.2,"Amarillo, Texas",
+40021,Cherokee,OK,,0,3752,-1.36,47078,1941.0,24.26,44.4,0.0,73.8,"Broken Arrow, Oklahoma",
+40023,Choctaw,OK,,0,10065,0.45,14204,1995.2,7.12,96.8,0.0,137.5,"McKinney, Texas",
+40033,Cotton,OK,,0,532,-0.47,5527,1638.6,3.37,7.6,41.1,47.0,"Wichita Falls, Texas",
+40041,Delaware,OK,,0,2239,-2.03,40397,1911.9,21.13,31.3,0.0,100.4,"Broken Arrow, Oklahoma",
+40051,Grady,OK,,0,1551,-1.09,54795,2850.3,19.22,0.4,55.5,39.1,"Norman, Oklahoma",
+37189,Watauga,NC,,0,12851,-3.66,54086,809.5,66.81,55.0,0.0,129.2,"Winston-Salem, North Carolina",
+48051,Burleson,TX,,0,4271,5.04,17642,1706.9,10.34,86.1,0.0,34.2,"College Station, Texas",
+35023,Hidalgo,NM,,0,25570,-1.84,4178,8901.4,0.47,5.3,55.3,188.1,"Las Cruces, New Mexico",
+35029,Luna,NM,,0,4315,-1.76,25427,7679.8,3.31,4.9,88.6,92.3,"Las Cruces, New Mexico",
+35031,McKinley,NM,,0,5881,-7.75,72902,14115.0,5.16,1.7,110.4,189.1,"Albuquerque, New Mexico",
+35035,Otero,NM,,0,25635,-2.18,67839,17128.1,3.96,86.0,0.0,87.7,"Las Cruces, New Mexico",
+47153,Sequatchie,TN,,0,777,-0.92,15826,688.6,22.98,37.5,0.0,35.4,"Chattanooga, Tennessee",
+47157,Shelby,TN,,0,20051,1.09,929744,1976.6,470.37,2.6,68.4,14.8,"Memphis, Tennessee",
+47163,Sullivan,TN,2024,41,9148,-1.9,158163,1070.6,147.73,0.2,72.8,149.9,"Knoxville, Tennessee",
+47171,Unicoi,TN,2026,1,2368,-2.59,17928,482.2,37.18,1.0,42.1,137.9,"Knoxville, Tennessee",
+47181,Wayne,TN,,0,467,-0.68,16232,1901.3,8.54,68.7,0.0,124.0,"Huntsville, Alabama",
+45057,Lancaster,SC,,0,1800,0.62,96016,1422.3,67.51,22.3,0.0,47.7,"Charlotte, North Carolina",
+36085,Richmond,NY,2020,412,18159,-2.25,495747,151.2,3279.23,2.1,14.7,10.4,"Elizabeth, New Jersey",
+36097,Schuyler,NY,2026,1,17753,-7.91,17898,850.4,21.05,25.1,0.0,94.2,"Syracuse, New York",
+36105,Sullivan,NY,2022,8,10713,-8.07,78624,2507.5,31.36,36.2,0.0,97.8,"Paterson, New Jersey",
+36111,Ulster,NY,2020,376,30699,-7.56,181851,2911.8,62.45,3.4,65.8,92.1,"Waterbury, Connecticut",
+36115,Washington,NY,2022,2,6637,-9.78,61302,2152.8,28.48,17.6,0.0,150.5,"Springfield, Massachusetts",
+36119,Westchester,NY,2021,1196,63016,-4.62,1004457,1115.0,900.87,1.7,99.4,14.3,"Yonkers, New York",
+45091,York,SC,,0,5788,0.32,282090,1762.7,160.03,5.3,33.7,31.8,"Charlotte, North Carolina",
+46009,Bon Homme,SD,,0,530,-10.4,7003,1460.0,4.8,78.1,0.0,111.8,"Sioux Falls, South Dakota",
+46013,Brown,SD,,0,787,-14.49,38301,4436.6,8.63,109.9,0.0,201.8,"Fargo, North Dakota",
+46021,Campbell,SD,,0,55,-14.07,1377,1900.2,0.72,115.7,0.0,282.0,"Fargo, North Dakota",
+29209,Stone,MO,,0,1021,-2.88,31076,1201.8,25.86,52.0,0.0,55.9,"Springfield, Missouri",
+29217,Vernon,MO,,0,1139,-3.37,19707,2140.4,9.21,84.6,0.0,115.4,"Springfield, Missouri",
+29227,Worth,MO,,0,19,-7.76,1973,690.5,2.86,38.6,0.0,143.0,"Des Moines, Iowa",
+30001,Beaverhead,MT,,0,7460,-11.15,9371,14352.8,0.65,3.7,141.5,332.0,"Boise City, Idaho",
+37171,Surry,NC,2024,1,2763,-1.69,71359,1378.3,51.77,1.1,73.3,52.2,"Winston-Salem, North Carolina",
+37177,Tyrrell,NC,,0,1328,2.02,3245,1007.6,3.22,96.2,0.0,97.9,"Chesapeake, Virginia",
+39067,Harrison,OH,2024,5,4165,-5.17,14483,1042.1,13.9,27.9,0.0,90.2,"Pittsburgh, Pennsylvania",
+39073,Hocking,OH,2025,1,29574,-4.55,28050,1091.2,25.71,47.0,0.0,67.6,"Columbus, Ohio",
+39079,Jackson,OH,,0,3252,-3.79,32653,1088.6,30.0,72.1,0.0,108.8,"Columbus, Ohio",
+48057,Calhoun,TX,,0,4175,9.0,20106,1312.7,15.32,113.7,0.0,115.5,"Corpus Christi, Texas",
+48071,Chambers,TX,,0,5682,8.08,46571,1546.6,30.11,2.6,54.5,44.4,"Pasadena, Texas",
+48093,Comanche,TX,,0,717,1.83,13594,2428.8,5.6,51.5,0.0,122.3,"Abilene, Texas",
+48097,Cooke,TX,,0,3117,1.29,41668,2265.6,18.39,2.8,34.5,43.8,"Denton, Texas",
+24510,Baltimore,MD,2021,909,18451,-1.99,585708,209.6,2793.82,0.2,56.7,2.7,"Baltimore, Maryland",
+45063,Lexington,SC,,0,8962,2.01,293991,1810.2,162.41,0.6,84.0,17.4,"Columbia, South Carolina",
+45067,Marion,SC,,0,692,2.47,29183,1267.1,23.03,26.6,0.0,107.7,"Fayetteville, North Carolina",
+45077,Pickens,SC,,0,30012,0.7,131404,1285.7,102.21,19.8,0.0,113.2,"Athens-Clarke County, Georgia",
+26053,Gogebic,MI,,0,12023,-14.32,14380,2853.8,5.04,160.3,0.0,263.9,"Green Bay, Wisconsin",
+46027,Clay,SD,,0,1837,-10.83,14967,1067.6,14.02,10.6,20.7,83.8,"Sioux Falls, South Dakota",
+46031,Corson,SD,,0,112,-13.32,3902,6396.5,0.61,118.0,0.0,341.6,"Fargo, North Dakota",
+46047,Fall River,SD,,0,2033,-10.03,6973,4506.4,1.55,83.3,0.0,339.0,"Fort Collins, Colorado",
+46053,Gregory,SD,,0,319,-10.06,3994,2628.7,1.52,63.1,0.0,209.5,"Sioux Falls, South Dakota",
+27007,Beltrami,MN,,0,3136,-17.76,46228,6487.8,7.13,155.3,0.0,166.3,"Fargo, North Dakota",
+27015,Brown,MN,,0,885,-12.55,25912,1582.7,16.37,67.7,0.0,130.3,"Minneapolis, Minnesota",
+27021,Cass,MN,,0,7203,-16.1,30066,5235.8,5.74,122.9,0.0,181.8,"Fargo, North Dakota",
+27027,Clay,MN,,0,14861,-16.12,65318,2707.5,24.12,1.1,43.7,9.2,"Fargo, North Dakota",
+46123,Tripp,SD,,0,196,-10.12,5624,4176.2,1.35,58.4,0.0,252.0,"Sioux Falls, South Dakota",
+46135,Yankton,SD,,0,1529,-10.71,23310,1349.8,17.27,47.6,0.0,89.8,"Sioux Falls, South Dakota",
+30011,Carter,MT,,0,1184,-12.17,1415,8652.5,0.16,128.5,0.0,309.8,"Billings, Montana",
+30017,Custer,MT,,0,1648,-11.94,11867,9798.9,1.21,2.1,68.7,219.1,"Billings, Montana",
+30025,Fallon,MT,,0,618,-12.73,3049,4197.8,0.73,67.6,0.0,330.5,"Billings, Montana",
+30027,Fergus,MT,,0,2785,-10.38,11446,11240.0,1.02,144.2,0.0,161.3,"Billings, Montana",
+30033,Garfield,MT,,0,573,-12.37,1173,12109.1,0.1,116.3,0.0,207.2,"Billings, Montana",
+30039,Granite,MT,,0,2438,-9.43,3309,4474.0,0.74,26.1,44.5,341.0,"Spokane, Washington",
+30045,Judith Basin,MT,,0,622,-9.96,2023,4842.8,0.42,99.1,0.0,194.1,"Billings, Montana",
+31131,Otoe,NE,,0,831,-7.93,15912,1594.5,9.98,18.8,0.0,57.0,"Lincoln, Nebraska",
+25005,Bristol,MA,2024,77,23941,-4.84,579200,1432.5,404.32,10.2,92.9,25.2,"Providence, Rhode Island",
+25009,Essex,MA,2024,29,42465,-6.29,809829,1275.7,634.79,1.4,106.1,26.5,"Lowell, Massachusetts",
+25019,Nantucket,MA,2023,1,13555,-2.16,14255,116.5,122.39,76.5,0.0,126.1,"Providence, Rhode Island",
+34023,Middlesex,NJ,2019,790,22403,-3.39,863162,800.1,1078.84,0.0,61.4,25.1,"Elizabeth, New Jersey",
+26055,Grand Traverse,MI,,0,5872,-8.69,95238,1202.6,79.19,71.5,0.0,191.8,"Green Bay, Wisconsin",
+31091,Hooker,NE,,0,335,-9.58,711,1867.7,0.38,97.6,0.0,371.2,"Fort Collins, Colorado",
+31095,Jefferson,NE,,0,571,-7.56,7240,1476.8,4.9,73.7,0.0,83.4,"Lincoln, Nebraska",
+31103,Keya Paha,NE,,0,186,-9.95,769,2002.2,0.38,105.3,0.0,252.9,"Sioux Falls, South Dakota",
+31111,Lincoln,NE,,0,1730,-9.11,34676,6640.9,5.22,1.7,91.7,344.2,"Lincoln, Nebraska",
+28089,Madison,MS,,0,2722,3.0,109145,1850.6,58.98,0.7,38.8,24.7,"Jackson, Mississippi",
+28093,Marshall,MS,,0,2110,0.78,33752,1829.0,18.45,38.0,0.0,59.0,"Memphis, Tennessee",
+27031,Cook,MN,,0,9273,-17.08,5600,3761.4,1.49,162.8,0.0,379.3,"St. Paul, Minnesota",
+27049,Goodhue,MN,,0,7373,-12.39,47582,1960.2,24.27,50.2,0.0,50.6,"Rochester, Minnesota",
+27055,Houston,MN,,0,3458,-11.19,18843,1429.8,13.18,18.4,0.0,89.5,"Rochester, Minnesota",
+37049,Craven,NC,,0,5576,1.98,100720,1836.2,54.85,88.9,0.0,125.1,"Wilmington, North Carolina",
+37051,Cumberland,NC,,0,10043,1.28,334728,1689.5,198.12,11.8,62.4,5.3,"Fayetteville, North Carolina",
+37131,Northampton,NC,,0,298,-0.29,17471,1389.8,12.57,14.8,11.0,109.4,"Chesapeake, Virginia",
+37137,Pamlico,NC,,0,431,2.9,12276,871.6,14.08,112.1,0.0,144.1,"Wilmington, North Carolina",
+37149,Polk,NC,,0,2037,0.09,19328,615.9,31.38,3.1,19.8,120.4,"Charlotte, North Carolina",
+37155,Robeson,NC,,0,3117,1.67,116530,2458.5,47.4,7.1,123.8,46.3,"Fayetteville, North Carolina",
+42091,Montgomery,PA,2015,1170,36761,-3.95,856553,1251.1,684.66,0.7,88.8,27.4,"Philadelphia, Pennsylvania",
+42097,Northumberland,PA,2022,44,3121,-5.68,91647,1187.2,77.2,13.0,26.7,104.4,"Allentown, Pennsylvania",
+42103,Pike,PA,2020,32,5100,-7.53,58535,1411.4,41.47,5.4,50.7,80.2,"Paterson, New Jersey",
+34025,Monmouth,NJ,2020,492,18481,-3.07,643615,1214.2,530.09,13.4,24.4,42.1,"Elizabeth, New Jersey",
+34039,Union,NJ,2020,332,5391,-3.4,575345,266.4,2159.76,0.8,43.7,7.0,"Elizabeth, New Jersey",
+35003,Catron,NM,,0,10191,-7.63,3579,17932.3,0.2,131.7,0.0,216.0,"Albuquerque, New Mexico",
+35005,Chaves,NM,,0,13427,-2.94,65157,15709.0,4.15,176.0,0.0,239.6,"Las Cruces, New Mexico",
+35009,Curry,NM,,0,1608,-3.89,48430,3638.4,13.31,77.3,0.0,154.1,"Amarillo, Texas",
+30061,Mineral,MT,,0,2088,-6.83,4535,3158.3,1.44,1.4,107.7,199.3,"Spokane, Washington",
+38001,Adams,ND,,0,579,-13.38,2200,2557.9,0.86,92.8,0.0,457.5,"Billings, Montana",
+09011,New London,CT,2023,110,22751,-5.11,268555,1722.0,155.95,1.9,94.8,60.4,"Hartford, Connecticut",
+10001,Kent,DE,2021,99,22165,-2.2,181851,1518.2,119.78,60.6,0.0,91.9,"Baltimore, Maryland",
+10003,New Castle,DE,2018,563,55375,-2.73,570719,1104.1,516.92,1.2,59.1,50.3,"Philadelphia, Pennsylvania",
+12009,Brevard,FL,,0,52362,11.99,606612,2630.6,230.6,2.3,115.7,23.3,"Palm Bay, Florida",
+12075,Levy,FL,,0,12780,7.79,42915,2896.1,14.82,37.3,0.0,44.5,"Gainesville, Florida",
+05031,Craighead,AR,,0,8364,-0.03,111231,1831.7,60.73,56.0,0.0,94.9,"Memphis, Tennessee",
+05035,Crittenden,AR,,0,816,1.21,48163,1579.3,30.5,1.1,64.5,15.2,"Memphis, Tennessee",
+05041,Desha,AR,,0,216,2.23,11395,1989.5,5.73,69.8,0.0,135.5,"Little Rock, Arkansas",
+05057,Hempstead,AR,,0,2129,1.24,20065,1884.3,10.65,1.8,38.2,131.5,"Shreveport, Louisiana",
+05063,Independence,AR,,0,1199,-0.55,37938,1978.6,19.17,101.0,0.0,128.1,"Little Rock, Arkansas",
+05069,Jefferson,AR,,0,791,1.49,67260,2255.2,29.82,0.3,43.0,61.4,"Little Rock, Arkansas",
+05075,Lawrence,AR,,0,863,-0.85,16216,1521.9,10.66,99.6,0.0,137.7,"Memphis, Tennessee",
+05077,Lee,AR,,0,163,1.56,8600,1560.8,5.51,24.5,0.0,76.8,"Memphis, Tennessee",
+04025,Yavapai,AZ,,0,51381,-0.54,236209,21039.8,11.23,28.2,195.9,112.1,"Surprise, Arizona",
+05005,Baxter,AR,,0,1942,-2.2,41627,1435.6,29.0,120.8,0.0,126.9,"Springfield, Missouri",
+05007,Benton,AR,,0,18377,-2.18,284333,2194.6,129.56,4.0,27.9,128.3,"Springfield, Missouri",
+16073,Owyhee,ID,,0,4579,-6.05,11913,19853.6,0.6,26.6,0.0,46.8,"Boise City, Idaho",
+16085,Valley,ID,,0,6421,-10.56,11746,9491.1,1.24,104.9,0.0,128.4,"Boise City, Idaho",
+16087,Washington,ID,,0,1052,-5.42,10500,3763.2,2.79,20.6,0.0,94.5,"Boise City, Idaho",
+17013,Calhoun,IL,,0,2002,-4.64,4437,657.4,6.75,36.6,0.0,67.2,"St. Louis, Missouri",
+17021,Christian,IL,,0,842,-5.16,34032,1837.3,18.52,33.2,0.0,44.3,"Springfield, Illinois",
+17027,Clinton,IL,,0,665,-3.71,36899,1227.9,30.05,14.4,13.2,61.7,"St. Louis, Missouri",
+16031,Cassia,ID,,0,5409,-6.9,24655,6643.5,3.71,9.7,96.7,236.5,"Boise City, Idaho",
+16035,Clearwater,ID,,0,2503,-5.56,8734,6364.3,1.37,111.1,0.0,160.1,"Spokane, Washington",
+16037,Custer,ID,,0,4241,-11.87,4275,12745.2,0.34,120.0,0.0,184.8,"Boise City, Idaho",
+16049,Idaho,ID,,0,11045,-7.86,16541,21956.3,0.75,158.4,0.0,212.4,"Spokane, Washington",
+16059,Lemhi,ID,,0,11658,-10.51,7974,11819.1,0.67,80.6,0.0,251.7,"Boise City, Idaho",
+18023,Clinton,IN,,0,308,-6.14,33190,1049.1,31.64,11.4,17.0,66.5,"Indianapolis, Indiana",
+12021,Collier,FL,,0,35610,13.3,375752,5175.6,72.6,4.4,103.6,47.2,"Cape Coral, Florida",
+12033,Escambia,FL,2021,1,15501,6.02,321905,1700.2,189.33,2.9,40.9,76.6,"Mobile, Alabama",
+16007,Bear Lake,ID,,0,3211,-11.41,6372,2524.7,2.52,69.4,0.0,179.0,"Salt Lake City, Utah",
+16011,Bingham,ID,,0,1525,-9.25,47992,5423.4,8.85,0.2,52.3,278.0,"Salt Lake City, Utah",
+16013,Blaine,ID,,0,3804,-10.07,24272,6846.9,3.54,86.5,0.0,154.2,"Boise City, Idaho",
+05105,Perry,AR,,0,1036,0.14,10019,1428.1,7.02,19.6,0.0,52.5,"Little Rock, Arkansas",
+05107,Phillips,AR,,0,673,1.88,16568,1801.8,9.2,53.5,0.0,91.2,"Memphis, Tennessee",
+05119,Pulaski,AR,,0,14362,0.7,399125,1967.8,202.83,3.4,99.6,4.0,"Little Rock, Arkansas",
+17031,Cook,IL,2023,50,442036,-6.75,5275541,2448.4,2154.7,0.3,301.9,10.6,"Chicago, Illinois",
+18123,Perry,IN,,0,1819,-2.93,19170,988.7,19.39,23.1,19.7,75.4,"Evansville, Indiana",
+18129,Posey,IN,,0,2687,-2.61,25222,1060.8,23.78,18.2,24.8,22.1,"Evansville, Indiana",
+18143,Scott,IN,,0,282,-3.74,24384,493.1,49.45,2.2,20.9,49.9,"Louisville, Kentucky",
+18147,Spencer,IN,,0,381,-2.78,19810,1027.6,19.28,19.9,15.6,49.2,"Evansville, Indiana",
+18155,Switzerland,IN,2023,9,705,-3.5,9737,571.4,17.04,15.7,0.0,54.4,"Cincinnati, Ohio",
+18163,Vanderburgh,IN,,0,2164,-2.68,180136,604.7,297.89,7.6,32.1,3.5,"Evansville, Indiana",
+18029,Dearborn,IN,2024,5,1283,-4.09,50679,790.0,64.15,7.7,28.5,35.3,"Cincinnati, Ohio",
+18037,Dubois,IN,,0,1195,-3.78,43637,1106.6,39.43,16.9,4.8,71.5,"Evansville, Indiana",
+18039,Elkhart,IN,2025,1,3482,-6.82,207047,1199.6,172.6,11.1,33.6,29.0,"South Bend, Indiana",
+13135,Gwinnett,GA,2025,1,11660,1.29,957062,1114.7,858.59,3.8,56.6,38.4,"Atlanta, Georgia",
+13145,Harris,GA,,0,2234,2.41,34668,1201.4,28.86,8.2,33.0,27.8,"Columbus, Georgia",
+13151,Henry,GA,,0,2528,1.81,240712,834.3,288.52,3.9,37.6,36.8,"Atlanta, Georgia",
+13161,Jeff Davis,GA,,0,232,4.35,14779,856.6,17.25,65.1,0.0,143.6,"Savannah, Georgia",
+13167,Johnson,GA,,0,85,3.24,9189,784.8,11.71,28.0,0.0,106.6,"Augusta-Richmond County, Georgia",
+13177,Lee,GA,,0,1552,4.15,33163,921.5,35.99,46.8,0.0,115.6,"Columbus, Georgia",
+13179,Liberty,GA,,0,6996,5.28,65256,1268.6,51.44,19.3,21.6,53.2,"Savannah, Georgia",
+20107,Linn,KS,,0,1616,-4.1,9591,1538.6,6.23,54.6,0.0,72.0,"Olathe, Kansas",
+20117,Marshall,KS,,0,489,-7.31,10038,2331.5,4.31,83.0,0.0,112.5,"Topeka, Kansas",
+17149,Pike,IL,,0,2060,-5.28,14739,2153.3,6.84,6.1,67.1,104.5,"Springfield, Illinois",
+17157,Randolph,IL,,0,1531,-3.27,30163,1490.5,20.24,29.2,0.0,71.8,"St. Louis, Missouri",
+17161,Rock Island,IL,,0,5195,-8.03,144672,1107.6,130.62,0.0,51.2,7.3,"Davenport, Iowa",
+17171,Scott,IL,,0,398,-5.31,4949,649.9,7.62,3.8,22.6,70.6,"Springfield, Illinois",
+17173,Shelby,IL,,0,1840,-4.92,20990,1964.6,10.68,31.4,7.1,84.0,"Springfield, Illinois",
+17181,Union,IL,,0,14787,-2.6,17244,1070.9,16.1,8.1,27.1,154.5,"St. Louis, Missouri",
+17185,Wabash,IL,,0,1118,-3.34,11361,578.2,19.65,27.2,0.0,54.9,"Evansville, Indiana",
+17193,White,IL,,0,2985,-2.91,13877,1281.4,10.83,17.4,27.1,55.9,"Evansville, Indiana",
+17201,Winnebago,IL,,0,24234,-8.83,285350,1329.6,214.61,7.9,43.7,5.0,"Rockford, Illinois",
+13287,Turner,GA,,0,85,4.07,9006,739.2,12.18,0.4,26.6,152.3,"Columbus, Georgia",
+13291,Union,GA,,0,4180,-1.39,24632,833.8,29.54,65.7,0.0,119.1,"Athens-Clarke County, Georgia",
+13299,Ware,GA,,0,4784,5.26,36251,2311.5,15.68,72.5,0.0,121.3,"Jacksonville, Florida",
+21105,Hickman,KY,,0,350,-1.25,4521,627.5,7.2,41.3,0.0,142.4,"Clarksville, Tennessee",
+48273,Kleberg,TX,,0,19539,10.17,31040,2282.6,13.6,47.2,0.0,57.0,"Corpus Christi, Texas",
+48311,McMullen,TX,,0,3562,7.46,600,2951.1,0.2,34.5,0.0,109.1,"San Antonio, Texas",
+48315,Marion,TX,,0,2280,3.3,9725,986.5,9.86,33.7,0.0,69.3,"Shreveport, Louisiana",
+48321,Matagorda,TX,,0,1799,8.63,36255,2849.7,12.72,93.8,0.0,99.6,"Pearland, Texas",
+48337,Montague,TX,,0,2986,0.74,19965,2411.0,8.28,54.6,0.0,74.3,"Wichita Falls, Texas",
+54047,McDowell,WV,,0,537,-3.19,19111,1381.6,13.83,48.8,0.0,191.6,"Winston-Salem, North Carolina",
+54057,Mineral,WV,2022,26,1756,-4.45,26938,849.1,31.73,20.4,0.0,142.9,"Pittsburgh, Pennsylvania",
+54063,Monroe,WV,,0,1287,-3.79,12376,1224.4,10.11,34.5,0.0,163.5,"Winston-Salem, North Carolina",
+54071,Pendleton,WV,2025,1,9346,-5.45,6143,1802.8,3.41,48.6,0.0,197.8,"Alexandria, Virginia",
+54077,Preston,WV,2020,8,20647,-5.57,34216,1680.4,20.36,16.4,26.6,108.3,"Pittsburgh, Pennsylvania",
+51059,Fairfax,VA,2022,2333,142483,-2.19,1150309,1012.6,1135.99,3.1,87.1,18.8,"Alexandria, Virginia",
+51071,Giles,VA,2025,2,15299,-3.69,16787,921.5,18.22,26.5,0.0,142.8,"Winston-Salem, North Carolina",
+51077,Grayson,VA,,0,3296,-4.05,15333,1145.2,13.39,29.4,0.0,98.6,"Winston-Salem, North Carolina",
+51083,Halifax,VA,,0,2645,-1.72,34022,2118.2,16.06,59.0,0.0,84.6,"Durham, North Carolina",
+51089,Henry,VA,2024,19,992,-1.73,50948,990.2,51.45,63.3,0.0,69.9,"Greensboro, North Carolina",
+51093,Isle of Wight,VA,,0,1657,0.08,38606,817.4,47.23,19.6,0.0,23.7,"Newport News, Virginia",
+51099,King George,VA,,0,1739,-1.72,26723,465.3,57.44,27.3,0.0,58.6,"Alexandria, Virginia",
+51105,Lee,VA,,0,646,-2.36,22173,1128.0,19.66,49.3,0.0,111.5,"Knoxville, Tennessee",
+21033,Caldwell,KY,,0,998,-1.81,12649,893.0,14.16,15.0,1.1,81.0,"Clarksville, Tennessee",
+13305,Wayne,GA,,0,2361,4.86,30144,1662.2,18.14,45.5,0.0,93.3,"Savannah, Georgia",
+51117,Mecklenburg,VA,,0,1769,-1.2,30319,1620.0,18.72,16.1,25.7,93.5,"Durham, North Carolina",
+53007,Chelan,WA,,0,15172,-5.61,79074,7564.1,10.45,55.7,0.0,140.9,"Bellevue, Washington",
+48117,Deaf Smith,TX,,0,444,-4.34,18583,3876.9,4.79,43.7,0.9,67.4,"Amarillo, Texas",
+48261,Kenedy,TX,,0,8899,10.52,350,3777.1,0.09,82.0,0.0,86.1,"Corpus Christi, Texas",
+48135,Ector,TX,,0,2422,0.41,165171,2325.0,71.04,5.1,50.0,3.1,"Odessa, Texas",
+48141,El Paso,TX,,0,10694,0.15,865657,2622.9,330.04,1.5,89.3,7.3,"El Paso, Texas",
+48155,Foard,TX,,0,1371,-0.43,1095,1824.4,0.6,105.5,0.0,111.5,"Wichita Falls, Texas",
+48161,Freestone,TX,,0,1987,3.63,19435,2273.3,8.55,3.5,51.3,90.1,"Waco, Texas",
+48165,Gaines,TX,,0,1068,-1.21,21598,3891.1,5.55,100.7,0.0,100.1,"Midland, Texas",
+51107,Loudoun,VA,2022,988,50697,-3.11,420959,1335.3,315.25,22.3,0.0,43.6,"Washington, District of Columbia",
+51131,Northampton,VA,,0,8373,0.46,12282,548.1,22.41,53.2,0.0,54.9,"Hampton, Virginia",
+51147,Prince Edward,VA,2025,9,5853,-1.69,21849,906.4,24.11,62.8,0.0,92.1,"Richmond, Virginia",
+51149,Prince George,VA,,0,1269,-0.45,43010,686.7,62.63,2.1,39.9,38.0,"Richmond, Virginia",
+51159,Richmond,VA,,0,1906,-1.5,8923,496.0,17.99,54.9,0.0,77.6,"Richmond, Virginia",
+51161,Roanoke,VA,2024,114,3270,-2.4,96929,648.8,149.39,4.3,28.0,133.1,"Winston-Salem, North Carolina",
+51165,Rockingham,VA,2022,199,9247,-4.07,83757,2199.1,38.09,0.4,34.7,159.1,"Richmond, Virginia",
+51175,Southampton,VA,,0,502,-0.6,17996,1551.8,11.6,34.8,0.0,66.9,"Newport News, Virginia",
+51177,Spotsylvania,VA,2025,44,5042,-2.88,140032,1039.9,134.66,5.4,22.6,77.9,"Alexandria, Virginia",
+55061,Kewaunee,WI,,0,833,-9.93,20563,887.1,23.18,27.1,0.0,34.0,"Green Bay, Wisconsin",
+56039,Teton,WY,,0,26248,-13.69,23331,10348.0,2.25,103.6,0.0,312.8,"Billings, Montana",
+53047,Okanogan,WA,,0,15536,-7.22,42104,13644.0,3.09,146.8,0.0,184.5,"Spokane, Washington",
+48129,Donley,TX,,0,631,-2.56,3258,2400.6,1.36,26.9,0.0,93.0,"Amarillo, Texas",
+48167,Galveston,TX,,0,25266,9.01,350682,979.9,357.86,2.8,30.7,29.9,"Pearland, Texas",
+48221,Hood,TX,,0,12889,2.35,61598,1089.5,56.54,33.6,0.0,53.9,"Fort Worth, Texas",
+48225,Houston,TX,,0,2595,4.19,22066,3188.0,6.92,50.1,0.0,111.3,"College Station, Texas",
+48229,Hudspeth,TX,,0,11339,-0.97,3202,11838.8,0.27,17.8,120.7,96.2,"El Paso, Texas",
+48245,Jefferson,TX,,0,4291,7.52,256526,2269.6,113.03,8.7,41.3,9.5,"Beaumont, Texas",
+48257,Kaufman,TX,,0,7038,3.04,145310,2022.0,71.86,3.4,43.1,24.9,"Mesquite, Texas",
+51193,Westmoreland,VA,,0,14737,-1.52,18477,594.1,31.1,56.5,0.0,74.1,"Alexandria, Virginia",
+51199,York,VA,2022,1,6441,0.26,70045,271.4,258.11,3.9,22.1,10.0,"Newport News, Virginia",
+53031,Jefferson,WA,,0,7896,-0.77,32977,4671.6,7.06,44.8,0.0,46.7,"Everett, Washington",
+55031,Douglas,WI,,0,2385,-14.57,44295,3377.7,13.11,17.1,0.0,203.9,"St. Paul, Minnesota",
+55051,Iron,WI,,0,777,-14.55,6137,1963.7,3.13,149.9,0.0,264.4,"Green Bay, Wisconsin",
+53049,Pacific,WA,,0,7741,1.51,23365,2415.6,9.67,72.9,0.0,137.6,"Vancouver, Washington",
+51570,Colonial Heights,VA,,0,133,-0.82,18170,19.5,932.91,0.6,4.5,31.1,"Richmond, Virginia",
+51630,Fredericksburg,VA,2024,28,2579,-2.65,27982,27.0,1034.86,2.9,2.4,68.1,"Alexandria, Virginia",
+51650,Hampton,VA,2025,2,3423,1.02,137148,133.2,1029.96,1.2,26.3,2.5,"Hampton, Virginia",
+51700,Newport News,VA,2023,1,3079,0.74,186247,178.0,1046.52,2.3,19.4,2.1,"Newport News, Virginia",
+51735,Poquoson,VA,,0,242,0.9,12460,39.7,314.08,7.9,0.0,9.5,"Newport News, Virginia",
+51770,Roanoke,VA,2023,116,1728,-1.82,100011,110.2,907.25,1.9,8.6,134.4,"Winston-Salem, North Carolina",
+55071,Manitowoc,WI,,0,2205,-9.7,81359,1525.7,53.33,0.5,53.1,51.9,"Green Bay, Wisconsin",
+55079,Milwaukee,WI,,0,20479,-7.99,939489,625.2,1502.63,1.9,63.1,4.4,"Milwaukee, Wisconsin",
+55089,Ozaukee,WI,,0,8624,-8.71,91503,603.7,151.58,1.9,42.4,31.5,"Milwaukee, Wisconsin",
+53055,San Juan,WA,,0,9429,2.13,17788,450.4,39.49,40.5,0.0,87.8,"Everett, Washington",
+53061,Snohomish,WA,,0,13916,-0.94,827957,5406.0,153.15,1.6,70.9,5.8,"Everett, Washington",
+53071,Walla Walla,WA,,0,12761,-1.67,62584,3289.6,19.02,52.8,0.0,190.0,"Spokane, Washington",
+53073,Whatcom,WA,,0,19181,-2.61,226847,5456.7,41.57,3.6,45.3,95.4,"Everett, Washington",
+22039,Evangeline,LA,,0,2743,5.64,32350,1715.6,18.86,19.0,16.5,61.3,"Lafayette, Louisiana",
+27139,Scott,MN,,0,5874,-12.22,150928,923.3,163.47,13.5,6.5,33.3,"Minneapolis, Minnesota",
+31113,Logan,NE,,0,91,-9.6,716,1478.0,0.48,46.4,0.0,327.0,"Lincoln, Nebraska",
+37043,Clay,NC,,0,3884,-2.04,11089,556.2,19.94,82.6,0.0,104.0,"Knoxville, Tennessee",
+39057,Greene,OH,,0,28446,-4.53,167966,1071.6,156.75,6.1,33.2,16.9,"Dayton, Ohio",
+36009,Cattaraugus,NY,,0,4132,-8.46,77042,3388.6,22.74,10.3,80.0,77.3,"Buffalo, New York",
+47169,Trousdale,TN,,0,116,-0.91,11615,295.8,39.27,22.0,0.0,61.3,"Nashville, Tennessee",
+46073,Jerauld,SD,,0,37,-11.91,1663,1362.9,1.22,42.8,0.0,157.1,"Sioux Falls, South Dakota",
+48365,Panola,TX,,0,708,3.69,22491,2076.5,10.83,36.5,0.0,68.0,"Shreveport, Louisiana",
+48207,Haskell,TX,,0,246,0.41,5416,2339.1,2.32,76.8,0.0,81.4,"Abilene, Texas",
+51690,Martinsville,VA,2025,9,607,-1.89,13485,28.4,475.23,62.6,0.0,68.6,"Greensboro, North Carolina",
+55131,Washington,WI,,0,2927,-9.96,136761,1115.5,122.6,23.4,0.0,42.4,"Milwaukee, Wisconsin",
+54067,Nicholas,WV,,0,3520,-4.15,24604,1675.3,14.69,37.6,0.0,248.5,"Winston-Salem, North Carolina",
+51087,Henrico,VA,2021,20,14304,-1.31,334389,605.3,552.46,1.1,82.6,9.0,"Richmond, Virginia",
+01043,Cullman,AL,,0,1471,0.74,87866,1903.2,46.17,3.8,43.7,67.3,"Huntsville, Alabama",
+01109,Pike,AL,,0,3259,3.49,33009,1740.7,18.96,59.2,0.0,72.7,"Montgomery, Alabama",
+09009,New Haven,CT,2022,496,107839,-5.5,864835,1565.7,552.38,2.1,126.6,10.0,"New Haven, Connecticut",
+05049,Fulton,AR,,0,704,-2.46,12075,1601.1,7.54,148.7,0.0,164.0,"Springfield, Missouri",
+05127,Scott,AR,,0,1106,-0.35,9836,2311.1,4.26,66.1,0.0,164.9,"Little Rock, Arkansas",
+21117,Kenton,KY,2024,60,5442,-3.45,169064,415.0,407.34,1.1,32.5,10.8,"Cincinnati, Ohio",
+19123,Mahaska,IA,,0,299,-8.6,22190,1478.5,15.01,42.2,0.0,86.4,"Des Moines, Iowa",
+47015,Cannon,TN,,0,784,-0.92,14506,688.0,21.08,24.2,0.0,29.7,"Murfreesboro, Tennessee",
+38011,Bowman,ND,,0,649,-12.89,2993,3009.1,0.99,79.6,0.0,398.9,"Billings, Montana",
+38083,Sheridan,ND,,0,657,-15.51,1265,2518.5,0.5,80.1,0.0,280.8,"Fargo, North Dakota",
+48375,Potter,TX,,0,2939,-3.77,118525,2352.7,50.38,3.4,50.9,0.8,"Amarillo, Texas",
+31065,Furnas,NE,,0,338,-8.39,4636,1862.5,2.49,56.0,0.0,280.4,"Lincoln, Nebraska",
+28135,Tallahatchie,MS,,0,1418,2.18,12715,1671.3,7.61,27.8,0.0,130.9,"Memphis, Tennessee",
+41019,Douglas,OR,,0,18098,0.89,111201,13043.4,8.53,2.5,137.5,93.8,"Eugene, Oregon",
+29013,Bates,MO,,0,823,-4.06,16042,2167.0,7.4,73.8,0.0,78.0,"Olathe, Kansas",
+55001,Adams,WI,,0,3652,-11.7,20654,1672.2,12.35,23.1,0.0,102.2,"Madison, Wisconsin",
+53057,Skagit,WA,,0,7068,-1.34,129523,4483.8,28.89,0.1,39.3,54.7,"Everett, Washington",
+06085,Santa Clara,CA,,0,167338,4.05,1936259,3341.3,579.48,0.9,50.5,3.3,"San Jose, California",
+13017,Ben Hill,GA,,0,164,4.51,17194,647.8,26.54,33.1,0.0,173.8,"Tallahassee, Florida",
+18047,Franklin,IN,2026,2,1660,-4.7,22785,995.7,22.88,12.3,6.6,58.1,"Cincinnati, Ohio",
+22123,West Carroll,LA,,0,111,3.27,9751,931.5,10.47,43.1,0.0,130.1,"Jackson, Mississippi",
+26067,Ionia,MI,,0,2215,-7.59,66804,1479.7,45.15,8.3,39.8,47.2,"Grand Rapids, Michigan",
+37185,Warren,NC,,0,1405,-0.77,18642,1109.7,16.8,13.1,15.9,82.6,"Durham, North Carolina",
+45015,Berkeley,SC,,0,9375,3.53,229861,2846.0,80.77,8.6,28.8,23.5,"North Charleston, South Carolina",
+13045,Carroll,GA,,0,1952,0.96,119148,1292.6,92.18,9.0,27.0,62.0,"Atlanta, Georgia",
+37093,Hoke,NC,,0,2199,0.99,52082,1012.0,51.46,21.8,0.0,27.2,"Fayetteville, North Carolina",
+20149,Pottawatomie,KS,,0,33386,-6.6,25348,2178.2,11.64,20.5,0.0,59.3,"Topeka, Kansas",
+28033,DeSoto,MS,,0,2690,1.32,185314,1233.2,150.27,3.8,28.4,26.4,"Memphis, Tennessee",
+42001,Adams,PA,2021,189,127902,-4.58,103852,1343.3,77.31,34.9,0.0,78.1,"Baltimore, Maryland",
+37161,Rutherford,NC,,0,2251,-0.48,64444,1461.1,44.11,29.5,0.0,96.1,"Charlotte, North Carolina",
+21051,Clay,KY,,0,194,-2.53,20345,1215.3,16.74,31.5,0.0,117.8,"Lexington-Fayette, Kentucky",
+13245,Richmond,GA,,0,6570,2.94,206607,840.0,245.96,0.7,31.7,6.4,"Augusta-Richmond County, Georgia",
+13251,Screven,GA,,0,3375,3.36,14067,1670.8,8.42,50.8,0.0,86.8,"Savannah, Georgia",
+13261,Sumter,GA,,0,730,3.56,29616,1250.2,23.69,43.6,0.0,84.4,"Columbus, Georgia",
+13263,Talbot,GA,,0,1318,2.39,5733,1013.7,5.66,36.9,0.0,46.3,"Columbus, Georgia",
+13273,Terrell,GA,,0,166,3.95,9185,868.8,10.57,66.5,0.0,93.0,"Columbus, Georgia",
+20193,Thomas,KS,,0,547,-7.78,7930,2783.4,2.85,2.1,63.6,324.3,"Aurora, Colorado",
+20199,Wallace,KS,,0,1199,-7.28,1512,2366.3,0.64,49.7,0.0,255.7,"Pueblo, Colorado",
+20201,Washington,KS,,0,294,-7.06,5530,2317.4,2.39,85.0,0.0,121.2,"Lincoln, Nebraska",
+21195,Pike,KY,,0,2007,-2.29,58669,2037.9,28.79,93.4,0.0,192.4,"Lexington-Fayette, Kentucky",
+21211,Shelby,KY,,0,1731,-3.26,48065,983.3,48.88,3.2,34.8,45.8,"Louisville, Kentucky",
+21213,Simpson,KY,,0,757,-1.3,19594,606.6,32.3,5.1,22.3,66.5,"Nashville, Tennessee",
+21223,Trimble,KY,,0,257,-3.31,8474,392.8,21.58,13.3,2.4,55.2,"Louisville, Kentucky",
+21225,Union,KY,,0,1934,-2.3,13668,888.0,15.39,45.6,0.0,47.5,"Evansville, Indiana",
+20037,Crawford,KS,,0,11221,-3.13,38972,1527.5,25.51,49.2,0.0,128.7,"Springfield, Missouri",
+20043,Doniphan,KS,,0,754,-6.26,7510,1018.9,7.37,17.2,0.0,84.4,"Kansas City, Kansas",
+20061,Geary,KS,,0,3802,-5.95,36739,996.2,36.88,2.5,42.1,98.6,"Topeka, Kansas",
+20067,Grant,KS,,0,303,-6.51,7352,1488.7,4.94,178.2,0.0,267.6,"Amarillo, Texas",
+20071,Greeley,KS,,0,212,-7.47,1284,2016.2,0.64,94.8,0.0,248.1,"Pueblo, Colorado",
+20083,Hodgeman,KS,,0,395,-6.33,1723,2227.4,0.77,99.1,0.0,224.3,"Wichita, Kansas",
+20089,Jewell,KS,,0,1453,-7.58,2932,2356.3,1.24,102.1,0.0,173.4,"Lincoln, Nebraska",
+22019,Calcasieu,LA,,0,6629,6.72,216785,2754.9,78.69,1.5,88.2,85.1,"Beaumont, Texas",
+22027,Claiborne,LA,,0,394,2.33,14170,1955.1,7.25,29.4,0.0,74.8,"Shreveport, Louisiana",
+22029,Concordia,LA,,0,773,4.42,18687,1805.0,10.35,90.5,0.0,131.9,"Baton Rouge, Louisiana",
+22037,East Feliciana,LA,,0,1539,5.07,19539,1174.3,16.64,42.3,0.0,40.5,"Baton Rouge, Louisiana",
+53009,Clallam,WA,,0,17354,0.59,77155,4502.3,17.14,86.9,0.0,93.7,"Everett, Washington",
+53027,Grays Harbor,WA,,0,3669,1.25,75636,4926.2,15.35,62.2,0.0,105.0,"Tacoma, Washington",
+55105,Rock,WI,,0,3898,-9.15,163687,1860.0,88.0,4.7,57.5,43.1,"Rockford, Illinois",
+55117,Sheboygan,WI,,0,2453,-9.45,118034,1324.2,89.14,0.5,39.8,77.9,"Milwaukee, Wisconsin",
+55127,Walworth,WI,,0,9032,-8.99,106478,1437.8,74.06,0.8,48.6,63.0,"Rockford, Illinois",
+55009,Brown,WI,,0,5847,-10.17,268740,1371.9,195.88,0.0,26.4,2.7,"Green Bay, Wisconsin",
+49047,Uintah,UT,,0,9876,-10.46,35620,11602.4,3.07,119.0,0.0,175.5,"Provo, Utah",
+49053,Washington,UT,,0,30194,-2.04,180279,6284.2,28.69,0.1,66.3,175.5,"North Las Vegas, Nevada",
+50001,Addison,VT,,0,51450,-10.91,37363,1984.8,18.82,34.7,0.0,181.9,"Manchester, New Hampshire",
+50009,Essex,VT,,0,28941,-13.47,5920,1718.7,3.44,25.5,0.0,187.5,"Manchester, New Hampshire",
+50017,Orange,VT,,0,52113,-11.99,29277,1779.4,16.45,18.2,75.1,134.8,"Manchester, New Hampshire",
+50023,Washington,VT,,0,144793,-12.28,59807,1779.9,33.6,0.1,36.5,166.3,"Manchester, New Hampshire",
+22003,Allen,LA,,0,703,5.59,22750,1973.2,11.53,46.9,0.0,88.0,"Lafayette, Louisiana",
+22009,Avoyelles,LA,,0,638,5.1,39693,2156.0,18.41,23.1,6.8,92.7,"Lafayette, Louisiana",
+22101,St. Mary,LA,,0,485,8.07,49406,1438.4,34.35,63.7,0.0,82.2,"Baton Rouge, Louisiana",
+22107,Tensas,LA,,0,489,3.98,4147,1561.2,2.66,46.9,0.0,111.2,"Jackson, Mississippi",
+22109,Terrebonne,LA,,0,1280,8.85,109580,3190.4,34.35,44.9,0.0,74.5,"New Orleans, Louisiana",
+21021,Boyle,KY,,0,1440,-2.73,30614,466.6,65.61,42.4,0.0,51.9,"Lexington-Fayette, Kentucky",
+21023,Bracken,KY,,0,287,-3.56,8400,532.5,15.77,44.0,0.0,58.8,"Cincinnati, Ohio",
+22045,Iberia,LA,,0,1435,7.54,69929,1486.9,47.03,34.8,0.0,32.6,"Lafayette, Louisiana",
+21047,Christian,KY,,0,2694,-1.55,72748,1858.3,39.15,7.6,37.3,33.0,"Clarksville, Tennessee",
+21055,Crittenden,KY,,0,168,-2.03,8990,932.3,9.64,27.5,0.0,85.0,"Evansville, Indiana",
+21059,Daviess,KY,,0,931,-2.35,103312,1187.1,87.03,38.8,0.0,48.5,"Evansville, Indiana",
+21073,Franklin,KY,,0,2326,-2.97,51541,538.1,95.79,3.8,22.0,36.0,"Lexington-Fayette, Kentucky",
+21075,Fulton,KY,,0,791,-0.99,6515,532.3,12.24,46.6,0.0,148.8,"Clarksville, Tennessee",
+21089,Greenup,KY,,0,411,-3.48,35962,892.0,40.32,21.0,0.0,157.7,"Lexington-Fayette, Kentucky",
+21095,Harlan,KY,,0,1771,-2.95,26831,1206.5,22.24,67.3,0.0,118.4,"Knoxville, Tennessee",
+55137,Waushara,WI,,0,1897,-11.4,24520,1621.7,15.12,23.9,30.3,106.6,"Green Bay, Wisconsin",
+56001,Albany,WY,,0,40729,-10.72,37066,11069.2,3.35,1.3,87.9,92.1,"Fort Collins, Colorado",
+56007,Carbon,WY,,0,4537,-10.64,14537,20454.6,0.71,12.4,132.0,205.1,"Fort Collins, Colorado",
+56011,Crook,WY,,0,2929,-11.18,7181,7392.9,0.97,12.5,94.1,340.0,"Billings, Montana",
+56013,Fremont,WY,,0,7467,-12.07,39234,23786.0,1.65,148.5,0.0,309.0,"Billings, Montana",
+56021,Laramie,WY,,0,4016,-8.83,100512,6956.5,14.45,4.2,181.2,68.8,"Fort Collins, Colorado",
+54031,Hardy,WV,2022,13,12217,-5.1,14299,1508.2,9.48,34.8,0.0,159.0,"Washington, District of Columbia",
+54035,Jackson,WV,2024,1,626,-3.42,27791,1202.7,23.11,2.3,58.8,166.8,"Columbus, Ohio",
+54041,Lewis,WV,,0,1957,-3.76,17033,996.9,17.09,2.2,33.7,162.6,"Pittsburgh, Pennsylvania",
+50027,Windsor,VT,2021,2,86981,-11.19,57753,2510.6,23.0,6.0,84.1,103.9,"Manchester, New Hampshire",
+51001,Accomack,VA,,0,13943,-0.18,33413,1164.2,28.7,104.0,0.0,105.7,"Hampton, Virginia",
+51021,Bland,VA,,0,521,-3.79,6270,926.5,6.77,3.7,32.9,139.4,"Winston-Salem, North Carolina",
+51027,Buchanan,VA,,0,731,-2.84,20355,1302.2,15.63,59.2,0.0,207.0,"Winston-Salem, North Carolina",
+51037,Charlotte,VA,2025,1,670,-1.71,11529,1230.9,9.37,56.1,0.0,117.6,"Durham, North Carolina",
+51041,Chesterfield,VA,2025,5,11272,-1.27,364548,1096.3,332.52,11.1,27.6,17.3,"Richmond, Virginia",
