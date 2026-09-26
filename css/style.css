@@ -14,7 +14,7 @@ h1,h2{font-family:var(--serif);font-weight:700;margin:0}
 .site-head .sub{margin:.4rem 0 0;color:var(--muted);max-width:62ch}
 
 .layout{max-width:1400px;margin:0 auto;padding:8px 32px 0;display:grid;
-  grid-template-columns:minmax(0,1fr) 360px;grid-template-areas:"map panel" "time panel" "about panel";gap:20px}
+  grid-template-columns:minmax(0,1fr) 360px;grid-template-areas:"about panel" "map panel" "time panel";gap:20px}
 .map-wrap{grid-area:map;position:relative;min-height:540px;border-radius:6px;overflow:hidden;background:var(--paper)}
 #map{position:absolute;inset:0;background:var(--paper)}
 .map-year{position:absolute;left:16px;bottom:14px;z-index:500;font-family:var(--serif);font-weight:700;
@@ -61,7 +61,7 @@ svg .strip-label{fill:var(--ink);font-weight:600}
 .site-foot p{margin:.2rem 0;max-width:95ch}
 
 @media (max-width:900px){
-  .layout{grid-template-columns:1fr;grid-template-areas:"map" "time" "about" "panel";padding:8px 16px 0}
+  .layout{grid-template-columns:1fr;grid-template-areas:"about" "map" "time" "panel";padding:8px 16px 0}
   .site-head{padding:20px 16px 8px}.site-foot{padding:18px 16px 28px}
   .map-wrap{min-height:360px}
   .site-head h1{font-size:1.6rem}
@@ -95,3 +95,4 @@ select{font:14px var(--sans);color:var(--ink);background:var(--paper);border:1px
 .about li{margin-bottom:5px}
 .about-refs{font-size:.8rem;color:var(--muted);margin:10px 0 0}
 @media (max-width:700px){.about-cols{grid-template-columns:1fr}}
+.layout{grid-template-rows:auto auto auto 1fr}

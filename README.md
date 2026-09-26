@@ -29,7 +29,7 @@ Authors: _add names here_
 - **Counties with a record.** The running count of counties with at least one record.
 - **First record against a county property.** One point per county, with the year of its first record on the vertical axis and a choice of horizontal axis: 1991–2020 mean winter minimum temperature, distance to the nearest Interstate, distance to the nearest city of 100,000+, or population density. Counties without a record by the selected year sit in a band along the top. The Spearman rank correlation below the plot is computed over the counties that have a record.
 - **County detail.** Clicking a county on the map or in the scatter plot shows its values and its winter temperature through time, with the years of records marked.
-- **About this species.** Below the timeline, a short summary of each species: native range, arrival in the US, how it moves, where it lives, what it eats, what is known about its spread and which questions remain open. The text lives in `data/species_notes.json` and can be edited directly; the site reads it each time the page loads.
+- **About this species.** Above the map, a short summary of each species: native range, arrival in the US, how it moves, where it lives, what it eats, what is known about its spread and which questions remain open. The text lives in `data/species_notes.json` and can be edited directly; the site reads it each time the page loads.
 
 Axes and color scales are fixed across years. The timeline and county-count axes are set per species and region, so they change when either changes but not as the year changes.
 
