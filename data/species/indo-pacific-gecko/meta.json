@@ -1,0 +1,19 @@
+{
+  "records_fetched": "2026-09-26",
+  "name": "Hemidactylus garnotii",
+  "common": "Indo-Pacific gecko",
+  "gbif_taxon_key": 9066541,
+  "matched_as": "Hemidactylus garnotii Dum\u00e9ril & Bibron, 1836",
+  "gbif_filters": {
+    "hasCoordinate": "true",
+    "hasGeospatialIssue": "false",
+    "occurrenceStatus": "PRESENT",
+    "country": "US"
+  },
+  "records_in_contiguous_us": 802,
+  "records_without_year_not_downloaded": 150,
+  "records_outside_contiguous_us_counties": 222,
+  "map_points": 533,
+  "map_point_cell_deg": 0.01,
+  "note": "Built from the GBIF search API. This snapshot has no DOI. Before publishing, request a GBIF download with the same filters and cite its DOI."
+}
