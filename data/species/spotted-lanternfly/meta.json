@@ -1,0 +1,19 @@
+{
+  "records_fetched": "2026-09-26",
+  "name": "Lycorma delicatula",
+  "common": "Spotted lanternfly",
+  "gbif_taxon_key": 5157899,
+  "matched_as": "Lycorma delicatula (White, 1845)",
+  "gbif_filters": {
+    "hasCoordinate": "true",
+    "hasGeospatialIssue": "false",
+    "occurrenceStatus": "PRESENT",
+    "country": "US"
+  },
+  "records_in_contiguous_us": 68397,
+  "records_without_year_not_downloaded": 12,
+  "records_outside_contiguous_us_counties": 777,
+  "map_points": 13765,
+  "map_point_cell_deg": 0.05,
+  "note": "Built from the GBIF search API. This snapshot has no DOI. Before publishing, request a GBIF download with the same filters and cite its DOI."
+}
