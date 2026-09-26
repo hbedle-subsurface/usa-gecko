@@ -1,0 +1,31 @@
+name: Build data
+
+# Runs scripts/build_data.py on GitHub's servers and commits the results
+# into data/. Start it by hand from the Actions tab ("Run workflow").
+# It also refreshes itself on the 1st of each month.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build data files
+        run: python scripts/build_data.py
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Update data $(date -u +%Y-%m-%d)"
+          git push
