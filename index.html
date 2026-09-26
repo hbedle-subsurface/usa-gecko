@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Introduced species in the United States</title>
+<meta name="description" content="Records of introduced species in the contiguous United States by county and year, with winter minimum temperature, observer effort, distance to Interstates and distance to large cities.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,500;7..72,700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="js/vendor/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-head">
+  <h1 id="title">Introduced species in the United States</h1>
+  <p class="sub"><i id="sci"></i> records by county and year across the contiguous states, with winter minimum temperature, observer effort, distance to Interstates and distance to large cities</p>
+</header>
+
+<main class="layout">
+  <section class="map-wrap" aria-label="Map of US counties">
+    <div id="map"></div>
+    <div class="map-year" aria-hidden="true"><span id="map-year-value">—</span></div>
+    <div id="empty" class="empty" hidden>
+      <h2>No species data built yet</h2>
+      <p>The record and temperature files are made by <code>scripts/build_data.py</code>. On GitHub, open the <b>Actions</b> tab, choose <b>Build data</b>, and press <b>Run workflow</b>. The distance and population maps work before then.</p>
+    </div>
+  </section>
+
+  <aside class="panel">
+    <label class="field">Species
+      <select id="species"></select>
+    </label>
+
+    <label class="field">Region
+      <select id="region"><option value="">All contiguous states</option></select>
+    </label>
+
+    <fieldset class="modes">
+      <legend>Color counties by</legend>
+      <label><input type="radio" name="mode" value="first" checked> Year of first record</label>
+      <label><input type="radio" name="mode" value="winter"> Winter minimum temperature</label>
+      <label><input type="radio" name="mode" value="effort"> <span id="effort-mode">Observer records that year</span></label>
+      <label><input type="radio" name="mode" value="interstate"> Distance to nearest Interstate</label>
+      <label><input type="radio" name="mode" value="city"> Distance to nearest city of 100,000+</label>
+      <label><input type="radio" name="mode" value="density"> Population density, 2020</label>
+    </fieldset>
+
+    <div class="overlays">
+      <label><input type="checkbox" id="show-states" checked> State outlines</label>
+      <label><input type="checkbox" id="show-names" checked> City names</label>
+      <label><input type="checkbox" id="show-interstates"> Interstates</label>
+      <label><input type="checkbox" id="show-cities"> All cities of 100,000+</label>
+      <label><input type="checkbox" id="show-records" checked> Records</label>
+    </div>
+
+    <div id="legend" class="legend"></div>
+
+    <div class="chart-block">
+      <h2>Counties with a record</h2>
+      <svg id="chart-counties" class="chart" role="img" aria-label="Number of counties with at least one record, by year"></svg>
+    </div>
+
+    <div class="chart-block">
+      <h2>First record against</h2>
+      <select id="xvar" aria-label="Horizontal axis">
+        <option value="tn">Winter minimum temperature, 1991–2020 mean</option>
+        <option value="di">Distance from population center to nearest Interstate</option>
+        <option value="dc">Distance from population center to nearest city of 100,000+</option>
+        <option value="pd">Population density, 2020</option>
+      </select>
+      <p class="note">Each point is a county. Vertical: year of its first record. Counties with no record by the selected year sit in the gray band at the top.</p>
+      <canvas id="chart-scatter" class="chart-canvas" role="img" aria-label="County first record year plotted against the chosen county property"></canvas>
+      <p id="rho" class="stat"></p>
+    </div>
+
+    <div id="county" class="county" hidden>
+      <h2 id="county-name"></h2>
+      <dl id="county-facts"></dl>
+      <svg id="chart-county" class="chart" role="img" aria-label="Winter minimum temperature for the selected county, with record years marked"></svg>
+      <p class="note">Line: December–February mean minimum temperature each winter. Marks along the bottom: years with records of the species.</p>
+    </div>
+  </aside>
+
+  <section class="timeline" aria-label="Timeline">
+    <div class="timeline-head">
+      <button id="play" type="button" aria-pressed="false">Play</button>
+      <span class="timeline-year">Year <b id="year-value">—</b></span>
+      <span id="timeline-region" class="timeline-region"></span>
+    </div>
+    <svg id="timeline" class="timeline-svg" tabindex="0" role="slider" aria-label="Year" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0"></svg>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <p>Occurrence records from <a href="https://www.gbif.org/">GBIF.org</a>, which includes iNaturalist research-grade observations and museum specimens. County temperatures from <a href="https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/">NOAA NCEI nClimDiv</a>. County outlines, 2020 population and population centers from the U.S. Census Bureau. Interstates from <a href="https://www.naturalearthdata.com/">Natural Earth</a>. <span id="built"></span></p>
+  <p>Records keep the licenses set by their original publishers. Site text and code: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Download for this species: <span id="downloads">—</span>.</p>
+</footer>
+
+<script src="js/vendor/leaflet.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
