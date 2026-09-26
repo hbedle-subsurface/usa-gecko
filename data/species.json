@@ -1,0 +1,61 @@
+{
+  "built_utc": "2026-09-26T14:47:10Z",
+  "species": [
+    {
+      "slug": "mediterranean-house-gecko",
+      "name": "Hemidactylus turcicus",
+      "common": "Mediterranean house gecko",
+      "effort": "squamata",
+      "effort_label": "lizard and snake",
+      "records": 33620,
+      "counties": 872,
+      "records_fetched": "2026-09-26"
+    },
+    {
+      "slug": "brown-anole",
+      "name": "Anolis sagrei",
+      "common": "Brown anole",
+      "effort": "squamata",
+      "effort_label": "lizard and snake",
+      "records": 92498,
+      "counties": 513,
+      "records_fetched": "2026-09-26"
+    },
+    {
+      "slug": "italian-wall-lizard",
+      "name": "Podarcis siculus",
+      "common": "Italian wall lizard",
+      "effort": "squamata",
+      "effort_label": "lizard and snake",
+      "records": 3267,
+      "counties": 46,
+      "records_fetched": "2026-09-26"
+    },
+    {
+      "slug": "spotted-lanternfly",
+      "name": "Lycorma delicatula",
+      "common": "Spotted lanternfly",
+      "effort": "insecta",
+      "effort_label": "insect",
+      "records": 68397,
+      "counties": 412,
+      "records_fetched": "2026-09-26"
+    }
+  ],
+  "effort": {
+    "squamata": {
+      "name": "Squamata",
+      "label": "lizard and snake",
+      "gbif_taxon_key": 11592253,
+      "counties_not_yet_queried": 0,
+      "counties_failed": 0
+    },
+    "insecta": {
+      "name": "Insecta",
+      "label": "insect",
+      "gbif_taxon_key": 216,
+      "counties_not_yet_queried": 505,
+      "counties_failed": 0
+    }
+  }
+}
