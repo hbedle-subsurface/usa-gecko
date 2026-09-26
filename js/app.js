@@ -66,6 +66,26 @@
   try {
     [SPX, CLIM] = await Promise.all(["data/species.json", "data/climate.json"].map(getJSON));
   } catch (e) { $("empty").hidden = false; }
+  let NOTES = {};
+  try { NOTES = await getJSON("data/species_notes.json"); } catch (e) { /* notes are optional */ }
+
+  const esc = (t) => String(t).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
+  function drawAbout(sp) {
+    const n = NOTES[sp.slug], box = $("about");
+    if (!n) { box.hidden = true; return; }
+    box.hidden = false;
+    $("about-title").innerHTML = `About the ${esc(sp.common.charAt(0).toLowerCase() + sp.common.slice(1))} <i>(${esc(sp.name)})</i>`;
+    $("about-facts").innerHTML = [["Native range", n.native], ["Arrived in the US", n.arrived], ["How it moves", n.moves],
+      ["Where it lives", n.lives], ["What it eats", n.eats]]
+      .filter(([, v]) => v).map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("");
+    $("about-known").innerHTML = (n.known || []).map((t) => `<li>${esc(t)}</li>`).join("");
+    $("about-unknown").innerHTML = (n.unknown || []).map((t) => `<li>${esc(t)}</li>`).join("");
+    const q = encodeURIComponent(sp.name);
+    const refs = (n.refs || []).length ? `Key references: ${n.refs.map(esc).join("; ")}. ` : "";
+    $("about-refs").innerHTML = `${refs}More: <a href="https://www.gbif.org/species/search?q=${q}">GBIF</a>, ` +
+      `<a href="https://www.inaturalist.org/taxa/search?q=${q}">iNaturalist</a>. ` +
+      `These notes summarize published accounts and are not a complete review.`;
+  }
 
   const T0 = CLIM ? CLIM.t0 : 1895;
   const info = {};           // fips -> merged county info
@@ -145,6 +165,7 @@
     $("effort-mode").textContent = `${cap(SP.effort_label)} records that year`;
     $("downloads").innerHTML = `<a href="${base}county_summary.csv">county summary</a>, ` +
       `<a href="${base}county_year.csv.gz">county-by-year table</a>, <a href="${base}occurrences.csv.gz">all records</a>`;
+    drawAbout(SP);
     state.year = Y1; state.selected = null;
     computeAgg();
     render();

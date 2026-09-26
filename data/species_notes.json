@@ -1,0 +1,190 @@
+{
+  "_note": "Short summaries of what is known about each species, shown on the site under the timeline. Edit freely; each species is keyed by its slug in scripts/build_data.py.",
+  "mediterranean-house-gecko": {
+    "native": "Mediterranean region and the Middle East",
+    "arrived": "Florida Keys, early 1900s",
+    "moves": "In cargo, vehicles and trailers; one reached Missouri in a travel trailer bought in Florida",
+    "lives": "Outside walls of buildings, especially near lights at night",
+    "eats": "Insects drawn to lights",
+    "known": [
+      "Active at night and closely tied to buildings, which stay warmer than the surrounding air in winter.",
+      "Its range edge has moved north through Louisiana, Oklahoma and Tennessee over recent decades.",
+      "In southern Florida the tropical house gecko appears to be replacing it."
+    ],
+    "unknown": [
+      "Where its northern limit lies, and how far heated buildings let it go past that limit.",
+      "How many northern records are breeding populations and how many are single hitchhikers.",
+      "Whether the tropical house gecko will push it out of the Gulf Coast as well."
+    ],
+    "refs": ["Locey and Stone (2006), Journal of Herpetology 40: 526–530"]
+  },
+  "tropical-house-gecko": {
+    "native": "Sub-Saharan Africa",
+    "arrived": "Southern Florida, increasingly common since about 1990",
+    "moves": "In freight, lumber and potted plants; it may have crossed the Atlantic to South America before human shipping",
+    "lives": "Buildings, and more often than other house geckos, rural and undeveloped areas",
+    "eats": "Insects and spiders",
+    "known": [
+      "On buildings in southern Florida it outnumbers the Indo-Pacific gecko.",
+      "It appears to be displacing the Mediterranean house gecko across most of southern Florida.",
+      "It is rapidly expanding its range northward in Florida."
+    ],
+    "unknown": [
+      "How much winter cold it can survive, and so how far north it can spread.",
+      "Whether it will replace the Mediterranean house gecko outside Florida."
+    ],
+    "refs": []
+  },
+  "indo-pacific-gecko": {
+    "native": "South and Southeast Asia, Australia and the Pacific islands",
+    "arrived": "Southern Florida, by the 1960s",
+    "moves": "In potted plants and cargo",
+    "lives": "Buildings and trees",
+    "eats": "Insects",
+    "known": [
+      "Every individual is female; eggs develop without fertilization (parthenogenesis), so one gecko can start a population.",
+      "On Florida buildings the tropical house gecko usually outnumbers it, but where Cuban treefrogs are present it can come out ahead."
+    ],
+    "unknown": [
+      "Why it persists in some places where the tropical house gecko has arrived.",
+      "How far north it can establish."
+    ],
+    "refs": []
+  },
+  "brown-anole": {
+    "native": "Cuba and the Bahamas",
+    "arrived": "Florida Keys, late 1800s; now across the Gulf states",
+    "moves": "Especially in nursery plants, and in vehicles",
+    "lives": "Ground and low branches in open, disturbed and urban areas",
+    "eats": "Insects and spiders; also smaller lizards, including young green anoles",
+    "known": [
+      "Where it arrives, native green anoles move higher into trees. On Florida islands, green anoles evolved larger toe pads for climbing within about 15 years.",
+      "Its range has expanded faster since the 1970s and now covers a much wider span of latitude than its native range.",
+      "Invasive populations measured along its range show little change in cold tolerance with climate."
+    ],
+    "unknown": [
+      "Whether its cold tolerance can evolve fast enough to support further spread north.",
+      "How far north the plant trade will keep moving it."
+    ],
+    "refs": ["Stuart et al. (2014), Science 346: 463–466"]
+  },
+  "northern-curly-tailed-lizard": {
+    "native": "Cuba, the Bahamas and nearby islands",
+    "arrived": "Palm Beach, Florida, 1940s; reportedly 20 pairs released to control insects",
+    "moves": "Released and moved by people; spread slowly outward from Palm Beach",
+    "lives": "Open, sunny, sandy or rocky ground; concrete and seawalls in cities",
+    "eats": "Insects, small lizards including anoles, and some flowers",
+    "known": [
+      "By 1959 it had spread about 20 city blocks; by 1968, a few kilometers along the coast.",
+      "A 2005 study predicted frost would keep populations unstable north of Fort Pierce; records now reach north Florida and southern Georgia."
+    ],
+    "unknown": [
+      "Whether the records in Georgia and the Carolinas are breeding populations.",
+      "How it affects native lizards where it becomes common."
+    ],
+    "refs": ["Smith and Engeman (2004), Florida Field Naturalist 32: 107–113",
+             "Meshaka et al. (2005), Southeastern Naturalist 4: 521–526"]
+  },
+  "italian-wall-lizard": {
+    "native": "Italy and the Adriatic coast",
+    "arrived": "Long Island, New York, 1967; also Topeka, Kansas, and parts of California",
+    "moves": "Mainly through the pet trade and deliberate releases",
+    "lives": "Walls, rock piles, rail beds and gardens in cities and suburbs",
+    "eats": "Insects and other small invertebrates",
+    "known": [
+      "Genetic studies trace California populations to Sicily and the Kansas and New York populations to Tuscany.",
+      "It tolerates colder winters than the tropical lizards on this site."
+    ],
+    "unknown": [
+      "Whether it is spreading much beyond its original release sites; published assessments disagree.",
+      "How city life affects its body, behavior and genetics, an active research question in New York."
+    ],
+    "refs": []
+  },
+  "common-wall-lizard": {
+    "native": "Europe",
+    "arrived": "Cincinnati, Ohio, 1951; brought from northern Italy by a boy on a family trip (accounts of the details vary)",
+    "moves": "Along railroad tracks, and moved by people to new parts of the region",
+    "lives": "Stone walls, railroad tracks and rocky, south-facing slopes",
+    "eats": "Mostly insects",
+    "known": [
+      "Genetic work suggests the Cincinnati population descends from as few as three founders.",
+      "It has survived record-setting cold winters, and now lives in pockets across Cincinnati and into Kentucky and Indiana.",
+      "Railroad tracks have played a part in its spread."
+    ],
+    "unknown": [
+      "How far along rail lines it can travel, and how fast.",
+      "Whether it competes with Ohio's native lizards and skinks."
+    ],
+    "refs": ["Hedeen and Hedeen (1999), Herpetological Review 30: 57–58",
+             "Deichsel and Gist (2001), Herpetological Review 32: 230–232"]
+  },
+  "brahminy-blind-snake": {
+    "native": "South and Southeast Asia",
+    "arrived": "Florida, by the late 1900s; now in several southern states",
+    "moves": "In the soil of potted plants; it is now on every continent except Antarctica",
+    "lives": "Underground, in soil, leaf litter and flowerpots",
+    "eats": "Eggs, larvae and pupae of ants and termites",
+    "known": [
+      "Every individual is female and reproduces without mating, so one snake in one flowerpot can start a population.",
+      "At about 15 cm long, it is often mistaken for an earthworm."
+    ],
+    "unknown": [
+      "How many of its records are established populations and how many are single snakes arriving in plant shipments.",
+      "How often it goes unnoticed, which affects how its spread can be measured.",
+      "What effect it has on native soil animals."
+    ],
+    "refs": []
+  },
+  "cuban-treefrog": {
+    "native": "Cuba, the Bahamas and the Cayman Islands",
+    "arrived": "Florida Keys, early 1900s",
+    "moves": "In potted plants, vehicles and shipping",
+    "lives": "Trees, buildings and wet areas; the largest treefrog in North America",
+    "eats": "Insects, other frogs including native treefrogs, and small lizards such as geckos",
+    "known": [
+      "Native treefrogs tend to become less common where it is abundant.",
+      "It preys on house geckos, which can change which gecko species dominates a building.",
+      "Its skin secretions irritate eyes and cuts."
+    ],
+    "unknown": [
+      "How much winter cold it can survive.",
+      "Whether frogs found outside Florida are breeding populations or hitchhikers."
+    ],
+    "refs": []
+  },
+  "cane-toad": {
+    "native": "Southern Texas through Mexico, Central America and South America",
+    "arrived": "Florida, 1930s for sugarcane pest control, with a larger population traced to a release at Miami's airport in 1955",
+    "moves": "Released by people; spreads along canals and through suburbs",
+    "lives": "Lawns, canals, golf courses and other open ground near water",
+    "eats": "Almost anything it can swallow, including insects and pet food",
+    "known": [
+      "Its toxic skin secretions can sicken or kill dogs that bite it.",
+      "Records in the Rio Grande Valley of Texas are its native range, not a spread.",
+      "Scientists now often split it into two species, so some Texas records are filed under Rhinella horribilis."
+    ],
+    "unknown": [
+      "How far north in Florida it can survive winters.",
+      "How the change in its scientific name affects counts built from databases like GBIF."
+    ],
+    "refs": []
+  },
+  "spotted-lanternfly": {
+    "native": "China",
+    "arrived": "Berks County, Pennsylvania, 2014",
+    "moves": "Egg masses laid on vehicles, rail cars, stone and outdoor gear; adults also ride on vehicles",
+    "lives": "Trees and vines; it strongly prefers tree-of-heaven, itself an invasive tree common along roads and railways",
+    "eats": "Sap of dozens of plant species, including grapevines",
+    "known": [
+      "Simulations point to cars, trucks and trains as the main drivers of its spread across the eastern US.",
+      "One modeling study links infestation to primary Interstate highways specifically, not to road density in general.",
+      "Many states have run campaigns asking people to report and kill it, which raises the number of records."
+    ],
+    "unknown": [
+      "How far into colder or hotter climates it can establish.",
+      "How much its record counts reflect reporting campaigns and how much its actual spread."
+    ],
+    "refs": []
+  }
+}
