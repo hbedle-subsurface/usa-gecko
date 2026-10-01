@@ -1,5 +1,5 @@
 {
-  "records_fetched": "2026-09-26",
+  "records_fetched": "2026-10-01",
   "name": "Anolis sagrei",
   "common": "Brown anole",
   "gbif_taxon_key": 4287413,
@@ -10,10 +10,10 @@
     "occurrenceStatus": "PRESENT",
     "country": "US"
   },
-  "records_in_contiguous_us": 92498,
+  "records_in_contiguous_us": 93415,
   "records_without_year_not_downloaded": 317,
-  "records_outside_contiguous_us_counties": 8794,
-  "map_points": 17660,
+  "records_outside_contiguous_us_counties": 8863,
+  "map_points": 17744,
   "map_point_cell_deg": 0.05,
   "note": "Built from the GBIF search API. This snapshot has no DOI. Before publishing, request a GBIF download with the same filters and cite its DOI."
 }
