@@ -1,5 +1,5 @@
 {
-  "built_utc": "2026-09-26T19:21:21Z",
+  "built_utc": "2026-10-01T07:47:42Z",
   "species": [
     {
       "slug": "mediterranean-house-gecko",
@@ -8,9 +8,9 @@
       "group": "Lizards",
       "effort": "squamata",
       "effort_label": "lizard and snake",
-      "records": 33620,
-      "counties": 872,
-      "records_fetched": "2026-09-26"
+      "records": 34160,
+      "counties": 875,
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "tropical-house-gecko",
@@ -19,9 +19,9 @@
       "group": "Lizards",
       "effort": "squamata",
       "effort_label": "lizard and snake",
-      "records": 8621,
-      "counties": 106,
-      "records_fetched": "2026-09-26"
+      "records": 8722,
+      "counties": 107,
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "indo-pacific-gecko",
@@ -30,9 +30,9 @@
       "group": "Lizards",
       "effort": "squamata",
       "effort_label": "lizard and snake",
-      "records": 802,
-      "counties": 54,
-      "records_fetched": "2026-09-26"
+      "records": 812,
+      "counties": 55,
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "brown-anole",
@@ -41,9 +41,9 @@
       "group": "Lizards",
       "effort": "squamata",
       "effort_label": "lizard and snake",
-      "records": 92498,
-      "counties": 513,
-      "records_fetched": "2026-09-26"
+      "records": 93415,
+      "counties": 525,
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "northern-curly-tailed-lizard",
@@ -52,9 +52,9 @@
       "group": "Lizards",
       "effort": "squamata",
       "effort_label": "lizard and snake",
-      "records": 11629,
-      "counties": 44,
-      "records_fetched": "2026-09-26"
+      "records": 11757,
+      "counties": 46,
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "italian-wall-lizard",
@@ -63,9 +63,9 @@
       "group": "Lizards",
       "effort": "squamata",
       "effort_label": "lizard and snake",
-      "records": 3267,
-      "counties": 46,
-      "records_fetched": "2026-09-26"
+      "records": 3322,
+      "counties": 47,
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "common-wall-lizard",
@@ -74,9 +74,9 @@
       "group": "Lizards",
       "effort": "squamata",
       "effort_label": "lizard and snake",
-      "records": 1277,
+      "records": 1297,
       "counties": 25,
-      "records_fetched": "2026-09-26"
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "brahminy-blind-snake",
@@ -85,9 +85,9 @@
       "group": "Snakes",
       "effort": "squamata",
       "effort_label": "lizard and snake",
-      "records": 2172,
+      "records": 2189,
       "counties": 113,
-      "records_fetched": "2026-09-26"
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "cuban-treefrog",
@@ -96,9 +96,9 @@
       "group": "Frogs and toads",
       "effort": "anura",
       "effort_label": "frog and toad",
-      "records": 22697,
+      "records": 22864,
       "counties": 221,
-      "records_fetched": "2026-09-26"
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "cane-toad",
@@ -107,9 +107,9 @@
       "group": "Frogs and toads",
       "effort": "anura",
       "effort_label": "frog and toad",
-      "records": 4417,
-      "counties": 44,
-      "records_fetched": "2026-09-26"
+      "records": 4445,
+      "counties": 45,
+      "records_fetched": "2026-10-01"
     },
     {
       "slug": "spotted-lanternfly",
@@ -118,9 +118,9 @@
       "group": "Insects",
       "effort": "insecta",
       "effort_label": "insect",
-      "records": 68397,
-      "counties": 412,
-      "records_fetched": "2026-09-26"
+      "records": 70150,
+      "counties": 418,
+      "records_fetched": "2026-10-01"
     }
   ],
   "effort": {
