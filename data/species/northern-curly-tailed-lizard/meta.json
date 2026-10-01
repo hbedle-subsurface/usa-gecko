@@ -1,5 +1,5 @@
 {
-  "records_fetched": "2026-09-26",
+  "records_fetched": "2026-10-01",
   "name": "Leiocephalus carinatus",
   "common": "Northern curly-tailed lizard",
   "gbif_taxon_key": 5224691,
@@ -10,10 +10,10 @@
     "occurrenceStatus": "PRESENT",
     "country": "US"
   },
-  "records_in_contiguous_us": 11629,
+  "records_in_contiguous_us": 11757,
   "records_without_year_not_downloaded": 20,
-  "records_outside_contiguous_us_counties": 1188,
-  "map_points": 5877,
+  "records_outside_contiguous_us_counties": 1198,
+  "map_points": 5923,
   "map_point_cell_deg": 0.01,
   "note": "Built from the GBIF search API. This snapshot has no DOI. Before publishing, request a GBIF download with the same filters and cite its DOI."
 }
