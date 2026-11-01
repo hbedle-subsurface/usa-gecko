@@ -1,5 +1,5 @@
 {
-  "records_fetched": "2026-10-01",
+  "records_fetched": "2026-11-01",
   "name": "Rhinella marina",
   "common": "Cane toad",
   "gbif_taxon_key": 5216933,
@@ -10,10 +10,10 @@
     "occurrenceStatus": "PRESENT",
     "country": "US"
   },
-  "records_in_contiguous_us": 4445,
+  "records_in_contiguous_us": 4505,
   "records_without_year_not_downloaded": 173,
-  "records_outside_contiguous_us_counties": 2140,
-  "map_points": 2848,
+  "records_outside_contiguous_us_counties": 2151,
+  "map_points": 2878,
   "map_point_cell_deg": 0.01,
   "note": "Built from the GBIF search API. This snapshot has no DOI. Before publishing, request a GBIF download with the same filters and cite its DOI."
 }
