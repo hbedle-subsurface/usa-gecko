@@ -1,5 +1,5 @@
 {
-  "built_utc": "2026-11-01T17:01:44Z",
+  "built_utc": "2026-11-01T21:23:38Z",
   "species": [
     {
       "slug": "mediterranean-house-gecko",
@@ -129,7 +129,7 @@
       "label": "lizard and snake",
       "gbif_taxon_key": 11592253,
       "counties_not_yet_queried": 0,
-      "counties_failed": 1
+      "counties_failed": 0
     },
     "insecta": {
       "name": "Insecta",
